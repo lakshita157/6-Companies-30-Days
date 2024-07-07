@@ -5,8 +5,10 @@
 |  |
 | ------- |
 | [2645-pass-the-pillow](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2645-pass-the-pillow) |
+| [1642-water-bottles](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1642-water-bottles) |
 ## Simulation
 |  |
 | ------- |
 | [2645-pass-the-pillow](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2645-pass-the-pillow) |
+| [1642-water-bottles](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1642-water-bottles) |
 <!---LeetCode Topics End-->
