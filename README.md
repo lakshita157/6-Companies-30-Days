@@ -19,8 +19,21 @@
 |  |
 | ------- |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0998-check-completeness-of-a-binary-tree) |
+| [0971-shortest-bridge](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0971-shortest-bridge) |
 ## Binary Tree
 |  |
 | ------- |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0998-check-completeness-of-a-binary-tree) |
+## Array
+|  |
+| ------- |
+| [0971-shortest-bridge](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0971-shortest-bridge) |
+## Depth-First Search
+|  |
+| ------- |
+| [0971-shortest-bridge](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0971-shortest-bridge) |
+## Matrix
+|  |
+| ------- |
+| [0971-shortest-bridge](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0971-shortest-bridge) |
 <!---LeetCode Topics End-->
