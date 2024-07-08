@@ -28,6 +28,7 @@
 |  |
 | ------- |
 | [0971-shortest-bridge](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0971-shortest-bridge) |
+| [0217-contains-duplicate](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0217-contains-duplicate) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -36,4 +37,12 @@
 |  |
 | ------- |
 | [0971-shortest-bridge](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0971-shortest-bridge) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
