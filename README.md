@@ -15,15 +15,18 @@
 |  |
 | ------- |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0998-check-completeness-of-a-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [0971-shortest-bridge](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0971-shortest-bridge) |
+| [0226-invert-binary-tree](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0998-check-completeness-of-a-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0226-invert-binary-tree) |
 ## Array
 |  |
 | ------- |
@@ -34,6 +37,7 @@
 |  |
 | ------- |
 | [0971-shortest-bridge](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0971-shortest-bridge) |
+| [0226-invert-binary-tree](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0226-invert-binary-tree) |
 ## Matrix
 |  |
 | ------- |
