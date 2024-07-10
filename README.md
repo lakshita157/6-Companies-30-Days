@@ -72,4 +72,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0347-top-k-frequent-elements) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
