@@ -22,6 +22,7 @@
 | [0998-check-completeness-of-a-binary-tree](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [0971-shortest-bridge](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0971-shortest-bridge) |
 | [0226-invert-binary-tree](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0322-coin-change) |
 ## Binary Tree
 |  |
 | ------- |
@@ -33,6 +34,7 @@
 | [0971-shortest-bridge](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0971-shortest-bridge) |
 | [0217-contains-duplicate](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0347-top-k-frequent-elements) |
+| [0322-coin-change](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0322-coin-change) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -77,4 +79,8 @@
 | ------- |
 | [1908-recyclable-and-low-fat-products](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1908-recyclable-and-low-fat-products) |
 | [0584-find-customer-referee](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0584-find-customer-referee) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
