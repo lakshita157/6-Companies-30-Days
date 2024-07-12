@@ -35,6 +35,7 @@
 | [0217-contains-duplicate](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0347-top-k-frequent-elements) |
 | [0322-coin-change](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0322-coin-change) |
+| [0088-merge-sorted-array](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0088-merge-sorted-array) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -54,6 +55,7 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0347-top-k-frequent-elements) |
+| [0088-merge-sorted-array](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0088-merge-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -83,4 +85,8 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0322-coin-change) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
