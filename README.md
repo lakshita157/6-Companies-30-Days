@@ -23,6 +23,7 @@
 | [0971-shortest-bridge](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0971-shortest-bridge) |
 | [0226-invert-binary-tree](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0322-coin-change) |
+| [1117-as-far-from-land-as-possible](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1117-as-far-from-land-as-possible) |
 ## Binary Tree
 |  |
 | ------- |
@@ -36,6 +37,7 @@
 | [0347-top-k-frequent-elements](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0347-top-k-frequent-elements) |
 | [0322-coin-change](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0322-coin-change) |
 | [0088-merge-sorted-array](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0088-merge-sorted-array) |
+| [1117-as-far-from-land-as-possible](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1117-as-far-from-land-as-possible) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -45,6 +47,7 @@
 |  |
 | ------- |
 | [0971-shortest-bridge](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0971-shortest-bridge) |
+| [1117-as-far-from-land-as-possible](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1117-as-far-from-land-as-possible) |
 ## Hash Table
 |  |
 | ------- |
@@ -85,6 +88,7 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0322-coin-change) |
+| [1117-as-far-from-land-as-possible](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1117-as-far-from-land-as-possible) |
 ## Two Pointers
 |  |
 | ------- |
