@@ -16,6 +16,7 @@
 | ------- |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0226-invert-binary-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0173-binary-search-tree-iterator) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -29,6 +30,7 @@
 | ------- |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0226-invert-binary-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0173-binary-search-tree-iterator) |
 ## Array
 |  |
 | ------- |
@@ -94,4 +96,20 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0088-merge-sorted-array) |
+## Stack
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0173-binary-search-tree-iterator) |
+## Design
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0173-binary-search-tree-iterator) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0173-binary-search-tree-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
