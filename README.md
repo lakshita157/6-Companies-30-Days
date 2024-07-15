@@ -18,6 +18,7 @@
 | [0226-invert-binary-tree](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0226-invert-binary-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0173-binary-search-tree-iterator) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -33,6 +34,7 @@
 | [0226-invert-binary-tree](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0226-invert-binary-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0173-binary-search-tree-iterator) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Array
 |  |
 | ------- |
@@ -49,6 +51,7 @@
 | [0971-shortest-bridge](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0971-shortest-bridge) |
 | [0226-invert-binary-tree](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Matrix
 |  |
 | ------- |
