@@ -6,6 +6,7 @@
 | ------- |
 | [2645-pass-the-pillow](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2645-pass-the-pillow) |
 | [1642-water-bottles](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1642-water-bottles) |
+| [0233-number-of-digit-one](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0233-number-of-digit-one) |
 ## Simulation
 |  |
 | ------- |
@@ -98,6 +99,7 @@
 | ------- |
 | [0322-coin-change](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0322-coin-change) |
 | [1117-as-far-from-land-as-possible](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1117-as-far-from-land-as-possible) |
+| [0233-number-of-digit-one](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0233-number-of-digit-one) |
 ## Two Pointers
 |  |
 | ------- |
@@ -118,4 +120,8 @@
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0173-binary-search-tree-iterator) |
+## Recursion
+|  |
+| ------- |
+| [0233-number-of-digit-one](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0233-number-of-digit-one) |
 <!---LeetCode Topics End-->
