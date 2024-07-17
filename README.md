@@ -7,6 +7,7 @@
 | [2645-pass-the-pillow](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2645-pass-the-pillow) |
 | [1642-water-bottles](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1642-water-bottles) |
 | [0233-number-of-digit-one](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0233-number-of-digit-one) |
+| [0007-reverse-integer](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0007-reverse-integer) |
 ## Simulation
 |  |
 | ------- |
