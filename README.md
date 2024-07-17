@@ -8,6 +8,7 @@
 | [1642-water-bottles](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1642-water-bottles) |
 | [0233-number-of-digit-one](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0233-number-of-digit-one) |
 | [0007-reverse-integer](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0009-palindrome-number) |
 ## Simulation
 |  |
 | ------- |
