@@ -48,6 +48,7 @@
 | [0088-merge-sorted-array](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0088-merge-sorted-array) |
 | [1117-as-far-from-land-as-possible](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1117-as-far-from-land-as-possible) |
 | [0057-insert-interval](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0057-insert-interval) |
+| [0198-house-robber](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0198-house-robber) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -102,6 +103,7 @@
 | [0322-coin-change](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0322-coin-change) |
 | [1117-as-far-from-land-as-possible](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1117-as-far-from-land-as-possible) |
 | [0233-number-of-digit-one](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0233-number-of-digit-one) |
+| [0198-house-robber](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0198-house-robber) |
 ## Two Pointers
 |  |
 | ------- |
