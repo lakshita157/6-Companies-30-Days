@@ -9,6 +9,7 @@
 | [0233-number-of-digit-one](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0233-number-of-digit-one) |
 | [0007-reverse-integer](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0009-palindrome-number) |
+| [1013-fibonacci-number](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1013-fibonacci-number) |
 ## Simulation
 |  |
 | ------- |
@@ -106,6 +107,7 @@
 | [0233-number-of-digit-one](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0233-number-of-digit-one) |
 | [0198-house-robber](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0213-house-robber-ii) |
+| [1013-fibonacci-number](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -130,4 +132,9 @@
 |  |
 | ------- |
 | [0233-number-of-digit-one](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0233-number-of-digit-one) |
+| [1013-fibonacci-number](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
