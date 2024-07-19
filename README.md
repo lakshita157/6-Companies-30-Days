@@ -31,6 +31,7 @@
 | [0226-invert-binary-tree](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0322-coin-change) |
 | [1117-as-far-from-land-as-possible](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1117-as-far-from-land-as-possible) |
+| [1036-rotting-oranges](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1036-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
@@ -51,6 +52,7 @@
 | [0057-insert-interval](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0057-insert-interval) |
 | [0198-house-robber](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0213-house-robber-ii) |
+| [1036-rotting-oranges](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1036-rotting-oranges) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -63,6 +65,7 @@
 | ------- |
 | [0971-shortest-bridge](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0971-shortest-bridge) |
 | [1117-as-far-from-land-as-possible](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1117-as-far-from-land-as-possible) |
+| [1036-rotting-oranges](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1036-rotting-oranges) |
 ## Hash Table
 |  |
 | ------- |
