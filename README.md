@@ -53,6 +53,7 @@
 | [0198-house-robber](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0213-house-robber-ii) |
 | [1036-rotting-oranges](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1036-rotting-oranges) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Depth-First Search
 |  |
 | ------- |
