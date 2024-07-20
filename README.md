@@ -10,6 +10,7 @@
 | [0007-reverse-integer](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0009-palindrome-number) |
 | [1013-fibonacci-number](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1013-fibonacci-number) |
+| [0189-rotate-array](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0189-rotate-array) |
 ## Simulation
 |  |
 | ------- |
@@ -54,6 +55,7 @@
 | [0213-house-robber-ii](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0213-house-robber-ii) |
 | [1036-rotting-oranges](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1036-rotting-oranges) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [0189-rotate-array](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0189-rotate-array) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -116,6 +118,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0189-rotate-array) |
 ## Stack
 |  |
 | ------- |
