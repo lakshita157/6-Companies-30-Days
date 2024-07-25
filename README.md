@@ -11,6 +11,7 @@
 | [0009-palindrome-number](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0009-palindrome-number) |
 | [1013-fibonacci-number](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1013-fibonacci-number) |
 | [0189-rotate-array](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
@@ -58,6 +59,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [0189-rotate-array](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0189-rotate-array) |
 | [0733-flood-fill](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0733-flood-fill) |
+| [0268-missing-number](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0268-missing-number) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -78,12 +80,14 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0347-top-k-frequent-elements) |
+| [0268-missing-number](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0347-top-k-frequent-elements) |
 | [0088-merge-sorted-array](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -135,6 +139,7 @@
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0173-binary-search-tree-iterator) |
+| [0268-missing-number](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0268-missing-number) |
 ## Iterator
 |  |
 | ------- |
@@ -148,4 +153,8 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1013-fibonacci-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
