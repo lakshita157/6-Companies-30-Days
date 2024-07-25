@@ -60,6 +60,7 @@
 | [0189-rotate-array](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0189-rotate-array) |
 | [0733-flood-fill](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0733-flood-fill) |
 | [0268-missing-number](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0268-missing-number) |
+| [0136-single-number](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0136-single-number) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -157,4 +158,5 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0268-missing-number) |
+| [0136-single-number](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
