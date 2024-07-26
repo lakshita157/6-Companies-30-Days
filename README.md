@@ -35,6 +35,7 @@
 | [1117-as-far-from-land-as-possible](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1117-as-far-from-land-as-possible) |
 | [1036-rotting-oranges](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1036-rotting-oranges) |
 | [0733-flood-fill](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0733-flood-fill) |
+| [0542-01-matrix](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0542-01-matrix) |
 ## Binary Tree
 |  |
 | ------- |
@@ -61,6 +62,7 @@
 | [0733-flood-fill](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0733-flood-fill) |
 | [0268-missing-number](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0268-missing-number) |
 | [0136-single-number](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0136-single-number) |
+| [0542-01-matrix](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0542-01-matrix) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -76,6 +78,7 @@
 | [1117-as-far-from-land-as-possible](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1117-as-far-from-land-as-possible) |
 | [1036-rotting-oranges](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1036-rotting-oranges) |
 | [0733-flood-fill](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0733-flood-fill) |
+| [0542-01-matrix](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0542-01-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -123,6 +126,7 @@
 | [0198-house-robber](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0213-house-robber-ii) |
 | [1013-fibonacci-number](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1013-fibonacci-number) |
+| [0542-01-matrix](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0542-01-matrix) |
 ## Two Pointers
 |  |
 | ------- |
