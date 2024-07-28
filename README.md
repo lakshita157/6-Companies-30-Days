@@ -36,6 +36,7 @@
 | [1036-rotting-oranges](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1036-rotting-oranges) |
 | [0733-flood-fill](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0733-flood-fill) |
 | [0542-01-matrix](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0542-01-matrix) |
+| [1073-number-of-enclaves](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1073-number-of-enclaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -63,6 +64,7 @@
 | [0268-missing-number](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0268-missing-number) |
 | [0136-single-number](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0136-single-number) |
 | [0542-01-matrix](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0542-01-matrix) |
+| [1073-number-of-enclaves](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1073-number-of-enclaves) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -71,6 +73,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1450-delete-leaves-with-a-given-value) |
 | [0733-flood-fill](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0733-flood-fill) |
+| [1073-number-of-enclaves](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1073-number-of-enclaves) |
 ## Matrix
 |  |
 | ------- |
@@ -79,6 +82,7 @@
 | [1036-rotting-oranges](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1036-rotting-oranges) |
 | [0733-flood-fill](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0733-flood-fill) |
 | [0542-01-matrix](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0542-01-matrix) |
+| [1073-number-of-enclaves](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1073-number-of-enclaves) |
 ## Hash Table
 |  |
 | ------- |
@@ -163,4 +167,8 @@
 | ------- |
 | [0268-missing-number](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0268-missing-number) |
 | [0136-single-number](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0136-single-number) |
+## Union Find
+|  |
+| ------- |
+| [1073-number-of-enclaves](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1073-number-of-enclaves) |
 <!---LeetCode Topics End-->
