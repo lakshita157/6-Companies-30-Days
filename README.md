@@ -37,6 +37,7 @@
 | [0733-flood-fill](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0733-flood-fill) |
 | [0542-01-matrix](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0542-01-matrix) |
 | [1073-number-of-enclaves](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1073-number-of-enclaves) |
+| [0801-is-graph-bipartite](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0801-is-graph-bipartite) |
 ## Binary Tree
 |  |
 | ------- |
@@ -74,6 +75,7 @@
 | [1450-delete-leaves-with-a-given-value](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1450-delete-leaves-with-a-given-value) |
 | [0733-flood-fill](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0733-flood-fill) |
 | [1073-number-of-enclaves](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1073-number-of-enclaves) |
+| [0801-is-graph-bipartite](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0801-is-graph-bipartite) |
 ## Matrix
 |  |
 | ------- |
@@ -171,4 +173,9 @@
 |  |
 | ------- |
 | [1073-number-of-enclaves](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1073-number-of-enclaves) |
+| [0801-is-graph-bipartite](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0801-is-graph-bipartite) |
+## Graph
+|  |
+| ------- |
+| [0801-is-graph-bipartite](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0801-is-graph-bipartite) |
 <!---LeetCode Topics End-->
