@@ -66,6 +66,7 @@
 | [0136-single-number](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0136-single-number) |
 | [0542-01-matrix](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0542-01-matrix) |
 | [1073-number-of-enclaves](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1073-number-of-enclaves) |
+| [0792-binary-search](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0792-binary-search) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -151,6 +152,7 @@
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0173-binary-search-tree-iterator) |
 | [0268-missing-number](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0268-missing-number) |
+| [0792-binary-search](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0792-binary-search) |
 ## Iterator
 |  |
 | ------- |
