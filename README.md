@@ -68,6 +68,7 @@
 | [1073-number-of-enclaves](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1073-number-of-enclaves) |
 | [0792-binary-search](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0792-binary-search) |
 | [0035-search-insert-position](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0035-search-insert-position) |
+| [0031-next-permutation](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0031-next-permutation) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -141,6 +142,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0189-rotate-array) |
+| [0031-next-permutation](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0031-next-permutation) |
 ## Stack
 |  |
 | ------- |
