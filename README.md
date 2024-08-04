@@ -69,6 +69,7 @@
 | [0792-binary-search](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0792-binary-search) |
 | [0035-search-insert-position](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0035-search-insert-position) |
 | [0031-next-permutation](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0031-next-permutation) |
+| [0001-two-sum](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0001-two-sum) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -95,6 +96,7 @@
 | [0347-top-k-frequent-elements](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0347-top-k-frequent-elements) |
 | [0268-missing-number](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0268-missing-number) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0001-two-sum](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0001-two-sum) |
 ## Sorting
 |  |
 | ------- |
