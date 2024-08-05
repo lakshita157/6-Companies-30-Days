@@ -70,6 +70,7 @@
 | [0035-search-insert-position](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0035-search-insert-position) |
 | [0031-next-permutation](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0031-next-permutation) |
 | [0001-two-sum](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0001-two-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0416-partition-equal-subset-sum) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -139,6 +140,7 @@
 | [0213-house-robber-ii](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0213-house-robber-ii) |
 | [1013-fibonacci-number](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1013-fibonacci-number) |
 | [0542-01-matrix](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0542-01-matrix) |
+| [0416-partition-equal-subset-sum](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0416-partition-equal-subset-sum) |
 ## Two Pointers
 |  |
 | ------- |
