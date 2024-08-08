@@ -72,6 +72,7 @@
 | [0001-two-sum](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0001-two-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0416-partition-equal-subset-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0128-longest-consecutive-sequence) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0081-search-in-rotated-sorted-array-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -165,6 +166,7 @@
 | [0268-missing-number](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0792-binary-search) |
 | [0035-search-insert-position](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0035-search-insert-position) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0081-search-in-rotated-sorted-array-ii) |
 ## Iterator
 |  |
 | ------- |
