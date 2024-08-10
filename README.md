@@ -25,6 +25,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0173-binary-search-tree-iterator) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1450-delete-leaves-with-a-given-value) |
+| [0783-search-in-a-binary-search-tree](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0783-search-in-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -46,6 +47,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0173-binary-search-tree-iterator) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1450-delete-leaves-with-a-given-value) |
+| [0783-search-in-a-binary-search-tree](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0783-search-in-a-binary-search-tree) |
 ## Array
 |  |
 | ------- |
@@ -167,6 +169,7 @@
 | [0792-binary-search](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0792-binary-search) |
 | [0035-search-insert-position](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0783-search-in-a-binary-search-tree](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0783-search-in-a-binary-search-tree) |
 ## Iterator
 |  |
 | ------- |
