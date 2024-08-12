@@ -153,6 +153,7 @@
 | [0088-merge-sorted-array](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0189-rotate-array) |
 | [0031-next-permutation](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0031-next-permutation) |
+| [0151-reverse-words-in-a-string](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0151-reverse-words-in-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -205,6 +206,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [0151-reverse-words-in-a-string](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0151-reverse-words-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
