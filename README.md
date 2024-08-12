@@ -75,6 +75,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0416-partition-equal-subset-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0128-longest-consecutive-sequence) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -170,6 +171,7 @@
 | [0035-search-insert-position](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0783-search-in-a-binary-search-tree](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0783-search-in-a-binary-search-tree) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Iterator
 |  |
 | ------- |
