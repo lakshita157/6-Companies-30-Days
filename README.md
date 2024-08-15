@@ -82,6 +82,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [0048-rotate-image](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0048-rotate-image) |
+| [0540-single-element-in-a-sorted-array](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0540-single-element-in-a-sorted-array) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -182,6 +183,7 @@
 | [0783-search-in-a-binary-search-tree](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0783-search-in-a-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [0540-single-element-in-a-sorted-array](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0540-single-element-in-a-sorted-array) |
 ## Iterator
 |  |
 | ------- |
