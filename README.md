@@ -14,6 +14,7 @@
 | [0268-missing-number](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0268-missing-number) |
 | [0048-rotate-image](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0048-rotate-image) |
 | [2032-largest-odd-number-in-string](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2032-largest-odd-number-in-string) |
+| [0050-powx-n](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0050-powx-n) |
 ## Simulation
 |  |
 | ------- |
@@ -194,6 +195,7 @@
 | ------- |
 | [0233-number-of-digit-one](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0233-number-of-digit-one) |
 | [1013-fibonacci-number](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1013-fibonacci-number) |
+| [0050-powx-n](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0050-powx-n) |
 ## Memoization
 |  |
 | ------- |
