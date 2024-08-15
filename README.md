@@ -12,6 +12,7 @@
 | [1013-fibonacci-number](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1013-fibonacci-number) |
 | [0189-rotate-array](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0268-missing-number) |
+| [0048-rotate-image](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0048-rotate-image) |
 ## Simulation
 |  |
 | ------- |
@@ -80,6 +81,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [0048-rotate-image](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0048-rotate-image) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -99,6 +101,7 @@
 | [0733-flood-fill](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0733-flood-fill) |
 | [0542-01-matrix](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0542-01-matrix) |
 | [1073-number-of-enclaves](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1073-number-of-enclaves) |
+| [0048-rotate-image](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0048-rotate-image) |
 ## Hash Table
 |  |
 | ------- |
