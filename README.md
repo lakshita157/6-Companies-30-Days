@@ -226,6 +226,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0151-reverse-words-in-a-string](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0151-reverse-words-in-a-string) |
 | [2032-largest-odd-number-in-string](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2032-largest-odd-number-in-string) |
+| [0812-rotate-string](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0812-rotate-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -241,4 +242,8 @@
 |  |
 | ------- |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1966-frequency-of-the-most-frequent-element) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
