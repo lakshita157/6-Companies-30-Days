@@ -116,6 +116,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0001-two-sum](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0128-longest-consecutive-sequence) |
+| [0242-valid-anagram](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
@@ -124,6 +125,7 @@
 | [0088-merge-sorted-array](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0268-missing-number) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [0242-valid-anagram](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -227,6 +229,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0151-reverse-words-in-a-string) |
 | [2032-largest-odd-number-in-string](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2032-largest-odd-number-in-string) |
 | [0812-rotate-string](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0812-rotate-string) |
+| [0242-valid-anagram](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
 | ------- |
