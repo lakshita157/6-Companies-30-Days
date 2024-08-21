@@ -16,6 +16,7 @@
 | [2032-largest-odd-number-in-string](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2032-largest-odd-number-in-string) |
 | [0050-powx-n](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0050-powx-n) |
 | [2050-count-good-numbers](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2050-count-good-numbers) |
+| [0224-basic-calculator](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0224-basic-calculator) |
 ## Simulation
 |  |
 | ------- |
@@ -174,6 +175,7 @@
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0173-binary-search-tree-iterator) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [0224-basic-calculator](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0224-basic-calculator) |
 ## Design
 |  |
 | ------- |
@@ -202,6 +204,7 @@
 | [1013-fibonacci-number](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1013-fibonacci-number) |
 | [0050-powx-n](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0050-powx-n) |
 | [2050-count-good-numbers](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2050-count-good-numbers) |
+| [0224-basic-calculator](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0224-basic-calculator) |
 ## Memoization
 |  |
 | ------- |
@@ -230,6 +233,7 @@
 | [2032-largest-odd-number-in-string](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2032-largest-odd-number-in-string) |
 | [0812-rotate-string](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0812-rotate-string) |
 | [0242-valid-anagram](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0242-valid-anagram) |
+| [0224-basic-calculator](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0224-basic-calculator) |
 ## Sliding Window
 |  |
 | ------- |
