@@ -88,6 +88,7 @@
 | [0048-rotate-image](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0048-rotate-image) |
 | [0540-single-element-in-a-sorted-array](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0540-single-element-in-a-sorted-array) |
 | [0162-find-peak-element](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0162-find-peak-element) |
+| [0496-next-greater-element-i](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0496-next-greater-element-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -118,6 +119,7 @@
 | [0001-two-sum](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0242-valid-anagram) |
+| [0496-next-greater-element-i](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0496-next-greater-element-i) |
 ## Sorting
 |  |
 | ------- |
@@ -176,6 +178,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0173-binary-search-tree-iterator) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0224-basic-calculator](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0224-basic-calculator) |
+| [0496-next-greater-element-i](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0496-next-greater-element-i) |
 ## Design
 |  |
 | ------- |
@@ -253,4 +256,8 @@
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0812-rotate-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
