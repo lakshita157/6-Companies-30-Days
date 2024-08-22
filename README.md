@@ -90,6 +90,7 @@
 | [0162-find-peak-element](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0162-find-peak-element) |
 | [0496-next-greater-element-i](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0503-next-greater-element-ii) |
+| [0215-kth-largest-element-in-an-array](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0215-kth-largest-element-in-an-array) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -130,14 +131,17 @@
 | [0268-missing-number](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0268-missing-number) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [0242-valid-anagram](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0242-valid-anagram) |
+| [0215-kth-largest-element-in-an-array](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0215-kth-largest-element-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0347-top-k-frequent-elements) |
+| [0215-kth-largest-element-in-an-array](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0347-top-k-frequent-elements) |
+| [0215-kth-largest-element-in-an-array](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0215-kth-largest-element-in-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -150,6 +154,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0347-top-k-frequent-elements) |
+| [0215-kth-largest-element-in-an-array](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0215-kth-largest-element-in-an-array) |
 ## Database
 |  |
 | ------- |
