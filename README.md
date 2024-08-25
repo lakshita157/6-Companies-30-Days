@@ -34,6 +34,7 @@
 | [1450-delete-leaves-with-a-given-value](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1450-delete-leaves-with-a-given-value) |
 | [0783-search-in-a-binary-search-tree](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0783-search-in-a-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0102-binary-tree-level-order-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0145-binary-tree-postorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -58,6 +59,7 @@
 | [1450-delete-leaves-with-a-given-value](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1450-delete-leaves-with-a-given-value) |
 | [0783-search-in-a-binary-search-tree](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0783-search-in-a-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0102-binary-tree-level-order-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0145-binary-tree-postorder-traversal) |
 ## Array
 |  |
 | ------- |
@@ -106,6 +108,7 @@
 | [0733-flood-fill](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0733-flood-fill) |
 | [1073-number-of-enclaves](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1073-number-of-enclaves) |
 | [0801-is-graph-bipartite](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0801-is-graph-bipartite) |
+| [0145-binary-tree-postorder-traversal](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0145-binary-tree-postorder-traversal) |
 ## Matrix
 |  |
 | ------- |
@@ -193,6 +196,7 @@
 | [0224-basic-calculator](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0224-basic-calculator) |
 | [0496-next-greater-element-i](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0503-next-greater-element-ii) |
+| [0145-binary-tree-postorder-traversal](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0145-binary-tree-postorder-traversal) |
 ## Design
 |  |
 | ------- |
