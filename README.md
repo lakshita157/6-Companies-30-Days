@@ -18,6 +18,7 @@
 | [2050-count-good-numbers](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2050-count-good-numbers) |
 | [0224-basic-calculator](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0224-basic-calculator) |
 | [0069-sqrtx](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0231-power-of-two) |
 ## Simulation
 |  |
 | ------- |
@@ -224,6 +225,7 @@
 | [0050-powx-n](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0050-powx-n) |
 | [2050-count-good-numbers](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2050-count-good-numbers) |
 | [0224-basic-calculator](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0231-power-of-two) |
 ## Memoization
 |  |
 | ------- |
@@ -233,6 +235,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0268-missing-number) |
 | [0136-single-number](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0231-power-of-two) |
 ## Union Find
 |  |
 | ------- |
