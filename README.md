@@ -17,6 +17,7 @@
 | [0050-powx-n](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0050-powx-n) |
 | [2050-count-good-numbers](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2050-count-good-numbers) |
 | [0224-basic-calculator](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0224-basic-calculator) |
+| [0069-sqrtx](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0069-sqrtx) |
 ## Simulation
 |  |
 | ------- |
@@ -206,6 +207,7 @@
 | [1966-frequency-of-the-most-frequent-element](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0540-single-element-in-a-sorted-array) |
 | [0162-find-peak-element](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0162-find-peak-element) |
+| [0069-sqrtx](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0069-sqrtx) |
 ## Iterator
 |  |
 | ------- |
