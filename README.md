@@ -93,6 +93,7 @@
 | [0503-next-greater-element-ii](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0503-next-greater-element-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0215-kth-largest-element-in-an-array) |
 | [0876-hand-of-straights](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0876-hand-of-straights) |
+| [0907-koko-eating-bananas](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0907-koko-eating-bananas) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -208,6 +209,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0540-single-element-in-a-sorted-array) |
 | [0162-find-peak-element](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0162-find-peak-element) |
 | [0069-sqrtx](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0069-sqrtx) |
+| [0907-koko-eating-bananas](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0907-koko-eating-bananas) |
 ## Iterator
 |  |
 | ------- |
