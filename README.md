@@ -99,6 +99,7 @@
 | [0876-hand-of-straights](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0876-hand-of-straights) |
 | [0907-koko-eating-bananas](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0907-koko-eating-bananas) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -222,6 +223,7 @@
 | [0069-sqrtx](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0069-sqrtx) |
 | [0907-koko-eating-bananas](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0907-koko-eating-bananas) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 ## Iterator
 |  |
 | ------- |
