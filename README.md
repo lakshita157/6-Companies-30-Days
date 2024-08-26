@@ -35,6 +35,7 @@
 | [0783-search-in-a-binary-search-tree](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0783-search-in-a-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0102-binary-tree-level-order-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0145-binary-tree-postorder-traversal) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -109,6 +110,7 @@
 | [1073-number-of-enclaves](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1073-number-of-enclaves) |
 | [0801-is-graph-bipartite](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0801-is-graph-bipartite) |
 | [0145-binary-tree-postorder-traversal](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0145-binary-tree-postorder-traversal) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Matrix
 |  |
 | ------- |
@@ -199,6 +201,7 @@
 | [0496-next-greater-element-i](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0503-next-greater-element-ii) |
 | [0145-binary-tree-postorder-traversal](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0145-binary-tree-postorder-traversal) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Design
 |  |
 | ------- |
