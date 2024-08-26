@@ -237,6 +237,7 @@
 | [2050-count-good-numbers](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2050-count-good-numbers) |
 | [0224-basic-calculator](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0231-power-of-two) |
+| [0206-reverse-linked-list](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0206-reverse-linked-list) |
 ## Memoization
 |  |
 | ------- |
@@ -297,4 +298,5 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0141-linked-list-cycle) |
 | [0092-reverse-linked-list-ii](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0092-reverse-linked-list-ii) |
+| [0206-reverse-linked-list](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
