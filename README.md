@@ -194,6 +194,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0151-reverse-words-in-a-string) |
 | [0141-linked-list-cycle](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0141-linked-list-cycle) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Stack
 |  |
 | ------- |
@@ -302,4 +303,5 @@
 | [0206-reverse-linked-list](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0328-odd-even-linked-list) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
