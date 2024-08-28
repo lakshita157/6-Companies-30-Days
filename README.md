@@ -50,6 +50,7 @@
 | [1073-number-of-enclaves](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1073-number-of-enclaves) |
 | [0801-is-graph-bipartite](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0801-is-graph-bipartite) |
 | [0102-binary-tree-level-order-traversal](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0102-binary-tree-level-order-traversal) |
+| [2035-count-sub-islands](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2035-count-sub-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -101,6 +102,7 @@
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1325-path-with-maximum-probability](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1325-path-with-maximum-probability) |
+| [2035-count-sub-islands](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2035-count-sub-islands) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -113,6 +115,7 @@
 | [0801-is-graph-bipartite](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0801-is-graph-bipartite) |
 | [0145-binary-tree-postorder-traversal](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [2035-count-sub-islands](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2035-count-sub-islands) |
 ## Matrix
 |  |
 | ------- |
@@ -123,6 +126,7 @@
 | [0542-01-matrix](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0542-01-matrix) |
 | [1073-number-of-enclaves](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1073-number-of-enclaves) |
 | [0048-rotate-image](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0048-rotate-image) |
+| [2035-count-sub-islands](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2035-count-sub-islands) |
 ## Hash Table
 |  |
 | ------- |
@@ -258,6 +262,7 @@
 | [1073-number-of-enclaves](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1073-number-of-enclaves) |
 | [0801-is-graph-bipartite](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0801-is-graph-bipartite) |
 | [0128-longest-consecutive-sequence](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0128-longest-consecutive-sequence) |
+| [2035-count-sub-islands](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2035-count-sub-islands) |
 ## Graph
 |  |
 | ------- |
