@@ -53,6 +53,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0102-binary-tree-level-order-traversal) |
 | [2035-count-sub-islands](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2035-count-sub-islands) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1753-path-with-minimum-effort](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1753-path-with-minimum-effort) |
 ## Binary Tree
 |  |
 | ------- |
@@ -108,6 +109,7 @@
 | [2035-count-sub-islands](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2035-count-sub-islands) |
 | [0943-sum-of-subarray-minimums](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0943-sum-of-subarray-minimums) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1753-path-with-minimum-effort](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1753-path-with-minimum-effort) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -123,6 +125,7 @@
 | [2035-count-sub-islands](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2035-count-sub-islands) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0110-balanced-binary-tree](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0110-balanced-binary-tree) |
+| [1753-path-with-minimum-effort](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1753-path-with-minimum-effort) |
 ## Matrix
 |  |
 | ------- |
@@ -135,6 +138,7 @@
 | [0048-rotate-image](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0048-rotate-image) |
 | [2035-count-sub-islands](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2035-count-sub-islands) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1753-path-with-minimum-effort](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1753-path-with-minimum-effort) |
 ## Hash Table
 |  |
 | ------- |
@@ -171,6 +175,7 @@
 | [0347-top-k-frequent-elements](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0347-top-k-frequent-elements) |
 | [0215-kth-largest-element-in-an-array](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0215-kth-largest-element-in-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1325-path-with-maximum-probability) |
+| [1753-path-with-minimum-effort](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1753-path-with-minimum-effort) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -243,6 +248,7 @@
 | [0907-koko-eating-bananas](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0907-koko-eating-bananas) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1753-path-with-minimum-effort](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1753-path-with-minimum-effort) |
 ## Iterator
 |  |
 | ------- |
@@ -275,6 +281,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0128-longest-consecutive-sequence) |
 | [2035-count-sub-islands](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2035-count-sub-islands) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1753-path-with-minimum-effort](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1753-path-with-minimum-effort) |
 ## Graph
 |  |
 | ------- |
