@@ -52,6 +52,7 @@
 | [0801-is-graph-bipartite](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0801-is-graph-bipartite) |
 | [0102-binary-tree-level-order-traversal](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0102-binary-tree-level-order-traversal) |
 | [2035-count-sub-islands](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2035-count-sub-islands) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Binary Tree
 |  |
 | ------- |
@@ -106,6 +107,7 @@
 | [1325-path-with-maximum-probability](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1325-path-with-maximum-probability) |
 | [2035-count-sub-islands](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2035-count-sub-islands) |
 | [0943-sum-of-subarray-minimums](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0943-sum-of-subarray-minimums) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -132,6 +134,7 @@
 | [1073-number-of-enclaves](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1073-number-of-enclaves) |
 | [0048-rotate-image](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0048-rotate-image) |
 | [2035-count-sub-islands](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2035-count-sub-islands) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Hash Table
 |  |
 | ------- |
