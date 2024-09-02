@@ -209,6 +209,7 @@
 | [0542-01-matrix](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0542-01-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0416-partition-equal-subset-sum) |
 | [0943-sum-of-subarray-minimums](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0943-sum-of-subarray-minimums) |
+| [1250-longest-common-subsequence](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1250-longest-common-subsequence) |
 ## Two Pointers
 |  |
 | ------- |
@@ -301,6 +302,7 @@
 | [0812-rotate-string](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0812-rotate-string) |
 | [0242-valid-anagram](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0242-valid-anagram) |
 | [0224-basic-calculator](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0224-basic-calculator) |
+| [1250-longest-common-subsequence](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1250-longest-common-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
