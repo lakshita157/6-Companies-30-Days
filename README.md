@@ -114,6 +114,7 @@
 | [1753-path-with-minimum-effort](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1753-path-with-minimum-effort) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [0300-longest-increasing-subsequence](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0300-longest-increasing-subsequence) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -213,6 +214,7 @@
 | [0943-sum-of-subarray-minimums](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0943-sum-of-subarray-minimums) |
 | [1250-longest-common-subsequence](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1250-longest-common-subsequence) |
 | [0072-edit-distance](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0072-edit-distance) |
+| [0300-longest-increasing-subsequence](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0300-longest-increasing-subsequence) |
 ## Two Pointers
 |  |
 | ------- |
@@ -257,6 +259,7 @@
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1753-path-with-minimum-effort](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1753-path-with-minimum-effort) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [0300-longest-increasing-subsequence](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0300-longest-increasing-subsequence) |
 ## Iterator
 |  |
 | ------- |
