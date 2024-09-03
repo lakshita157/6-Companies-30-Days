@@ -26,6 +26,7 @@
 | [1642-water-bottles](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1642-water-bottles) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Tree
 |  |
 | ------- |
@@ -311,6 +312,7 @@
 | [0224-basic-calculator](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0224-basic-calculator) |
 | [1250-longest-common-subsequence](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1250-longest-common-subsequence) |
 | [0072-edit-distance](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0072-edit-distance) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Sliding Window
 |  |
 | ------- |
