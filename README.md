@@ -27,6 +27,7 @@
 | [2132-convert-1d-array-into-2d-array](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [0906-walking-robot-simulation](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0906-walking-robot-simulation) |
 ## Tree
 |  |
 | ------- |
@@ -116,6 +117,7 @@
 | [2132-convert-1d-array-into-2d-array](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [0300-longest-increasing-subsequence](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0300-longest-increasing-subsequence) |
+| [0906-walking-robot-simulation](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0906-walking-robot-simulation) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -160,6 +162,7 @@
 | [0876-hand-of-straights](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0876-hand-of-straights) |
 | [0141-linked-list-cycle](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0141-linked-list-cycle) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [0906-walking-robot-simulation](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0906-walking-robot-simulation) |
 ## Sorting
 |  |
 | ------- |
