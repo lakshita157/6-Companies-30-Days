@@ -19,6 +19,7 @@
 | [0224-basic-calculator](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0224-basic-calculator) |
 | [0069-sqrtx](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0231-power-of-two) |
+| [2155-find-missing-observations](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2155-find-missing-observations) |
 ## Simulation
 |  |
 | ------- |
@@ -28,6 +29,7 @@
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [0906-walking-robot-simulation](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0906-walking-robot-simulation) |
+| [2155-find-missing-observations](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2155-find-missing-observations) |
 ## Tree
 |  |
 | ------- |
@@ -118,6 +120,7 @@
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [0300-longest-increasing-subsequence](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0300-longest-increasing-subsequence) |
 | [0906-walking-robot-simulation](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0906-walking-robot-simulation) |
+| [2155-find-missing-observations](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2155-find-missing-observations) |
 ## Depth-First Search
 |  |
 | ------- |
