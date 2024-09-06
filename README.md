@@ -123,6 +123,7 @@
 | [2155-find-missing-observations](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2155-find-missing-observations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/lakshita157/6-Companies-30-Days/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [0118-pascals-triangle](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0118-pascals-triangle) |
+| [0229-majority-element-ii](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0229-majority-element-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -169,6 +170,7 @@
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0906-walking-robot-simulation](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0906-walking-robot-simulation) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/lakshita157/6-Companies-30-Days/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [0229-majority-element-ii](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0229-majority-element-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -180,6 +182,7 @@
 | [0242-valid-anagram](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0242-valid-anagram) |
 | [0215-kth-largest-element-in-an-array](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0215-kth-largest-element-in-an-array) |
 | [0876-hand-of-straights](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0876-hand-of-straights) |
+| [0229-majority-element-ii](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0229-majority-element-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -200,6 +203,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0347-top-k-frequent-elements) |
+| [0229-majority-element-ii](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0229-majority-element-ii) |
 ## Quickselect
 |  |
 | ------- |
