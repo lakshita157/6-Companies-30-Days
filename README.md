@@ -122,6 +122,7 @@
 | [0906-walking-robot-simulation](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0906-walking-robot-simulation) |
 | [2155-find-missing-observations](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2155-find-missing-observations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/lakshita157/6-Companies-30-Days/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [0118-pascals-triangle](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0118-pascals-triangle) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -224,6 +225,7 @@
 | [1250-longest-common-subsequence](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1250-longest-common-subsequence) |
 | [0072-edit-distance](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0072-edit-distance) |
 | [0300-longest-increasing-subsequence](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0300-longest-increasing-subsequence) |
+| [0118-pascals-triangle](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0118-pascals-triangle) |
 ## Two Pointers
 |  |
 | ------- |
