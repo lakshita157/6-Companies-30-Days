@@ -121,6 +121,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0300-longest-increasing-subsequence) |
 | [0906-walking-robot-simulation](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0906-walking-robot-simulation) |
 | [2155-find-missing-observations](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2155-find-missing-observations) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/lakshita157/6-Companies-30-Days/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -166,6 +167,7 @@
 | [0141-linked-list-cycle](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0141-linked-list-cycle) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0906-walking-robot-simulation](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0906-walking-robot-simulation) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/lakshita157/6-Companies-30-Days/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Sorting
 |  |
 | ------- |
@@ -355,6 +357,7 @@
 | [0328-odd-even-linked-list](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0328-odd-even-linked-list) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/lakshita157/6-Companies-30-Days/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Shortest Path
 |  |
 | ------- |
