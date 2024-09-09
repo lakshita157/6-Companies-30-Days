@@ -63,6 +63,7 @@
 | [1171-shortest-path-in-binary-matrix](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1753-path-with-minimum-effort) |
 | [1484-linked-list-in-binary-tree](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1484-linked-list-in-binary-tree) |
+| [0744-network-delay-time](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0744-network-delay-time) |
 ## Binary Tree
 |  |
 | ------- |
@@ -146,6 +147,7 @@
 | [0110-balanced-binary-tree](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0110-balanced-binary-tree) |
 | [1753-path-with-minimum-effort](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1753-path-with-minimum-effort) |
 | [1484-linked-list-in-binary-tree](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1484-linked-list-in-binary-tree) |
+| [0744-network-delay-time](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0744-network-delay-time) |
 ## Matrix
 |  |
 | ------- |
@@ -205,6 +207,7 @@
 | [1325-path-with-maximum-probability](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1325-path-with-maximum-probability) |
 | [1753-path-with-minimum-effort](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1753-path-with-minimum-effort) |
 | [0451-sort-characters-by-frequency](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0451-sort-characters-by-frequency) |
+| [0744-network-delay-time](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0744-network-delay-time) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -326,6 +329,7 @@
 | [0801-is-graph-bipartite](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0801-is-graph-bipartite) |
 | [1325-path-with-maximum-probability](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1325-path-with-maximum-probability) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [0744-network-delay-time](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0744-network-delay-time) |
 ## String
 |  |
 | ------- |
@@ -383,4 +387,5 @@
 |  |
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1325-path-with-maximum-probability) |
+| [0744-network-delay-time](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
