@@ -30,6 +30,7 @@
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [0906-walking-robot-simulation](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0906-walking-robot-simulation) |
 | [2155-find-missing-observations](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2155-find-missing-observations) |
+| [2411-spiral-matrix-iv](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2411-spiral-matrix-iv) |
 ## Tree
 |  |
 | ------- |
@@ -127,6 +128,7 @@
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/lakshita157/6-Companies-30-Days/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [0118-pascals-triangle](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0118-pascals-triangle) |
 | [0229-majority-element-ii](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0229-majority-element-ii) |
+| [2411-spiral-matrix-iv](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2411-spiral-matrix-iv) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -158,6 +160,7 @@
 | [1171-shortest-path-in-binary-matrix](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1753-path-with-minimum-effort) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2411-spiral-matrix-iv](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2411-spiral-matrix-iv) |
 ## Hash Table
 |  |
 | ------- |
@@ -375,6 +378,7 @@
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/lakshita157/6-Companies-30-Days/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [1484-linked-list-in-binary-tree](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1484-linked-list-in-binary-tree) |
+| [2411-spiral-matrix-iv](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2411-spiral-matrix-iv) |
 ## Shortest Path
 |  |
 | ------- |
