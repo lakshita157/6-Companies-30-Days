@@ -245,6 +245,7 @@
 | [0072-edit-distance](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0072-edit-distance) |
 | [0300-longest-increasing-subsequence](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0300-longest-increasing-subsequence) |
 | [0118-pascals-triangle](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0118-pascals-triangle) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Two Pointers
 |  |
 | ------- |
@@ -330,6 +331,7 @@
 | [1325-path-with-maximum-probability](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1325-path-with-maximum-probability) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0744-network-delay-time](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0744-network-delay-time) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## String
 |  |
 | ------- |
@@ -388,4 +390,9 @@
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1325-path-with-maximum-probability) |
 | [0744-network-delay-time](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0744-network-delay-time) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Topological Sort
+|  |
+| ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
