@@ -133,6 +133,7 @@
 | [0229-majority-element-ii](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0229-majority-element-ii) |
 | [2411-spiral-matrix-iv](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2411-spiral-matrix-iv) |
 | [0064-minimum-path-sum](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0064-minimum-path-sum) |
+| [0219-contains-duplicate-ii](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0219-contains-duplicate-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -186,6 +187,7 @@
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/lakshita157/6-Companies-30-Days/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [0229-majority-element-ii](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0451-sort-characters-by-frequency) |
+| [0219-contains-duplicate-ii](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0219-contains-duplicate-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -361,6 +363,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [0219-contains-duplicate-ii](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0219-contains-duplicate-ii) |
 ## Greedy
 |  |
 | ------- |
