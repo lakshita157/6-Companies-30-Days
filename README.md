@@ -316,6 +316,7 @@
 | [0268-missing-number](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0268-missing-number) |
 | [0136-single-number](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0231-power-of-two) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Union Find
 |  |
 | ------- |
