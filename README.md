@@ -132,6 +132,7 @@
 | [0118-pascals-triangle](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0118-pascals-triangle) |
 | [0229-majority-element-ii](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0229-majority-element-ii) |
 | [2411-spiral-matrix-iv](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2411-spiral-matrix-iv) |
+| [0064-minimum-path-sum](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0064-minimum-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -166,6 +167,7 @@
 | [1753-path-with-minimum-effort](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1753-path-with-minimum-effort) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2411-spiral-matrix-iv) |
+| [0064-minimum-path-sum](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0064-minimum-path-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -251,6 +253,7 @@
 | [0118-pascals-triangle](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0118-pascals-triangle) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0064-minimum-path-sum](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0064-minimum-path-sum) |
 ## Two Pointers
 |  |
 | ------- |
