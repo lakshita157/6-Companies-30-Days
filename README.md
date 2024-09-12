@@ -134,6 +134,7 @@
 | [2411-spiral-matrix-iv](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2411-spiral-matrix-iv) |
 | [0064-minimum-path-sum](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0064-minimum-path-sum) |
 | [0219-contains-duplicate-ii](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0219-contains-duplicate-ii) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -188,6 +189,7 @@
 | [0229-majority-element-ii](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0451-sort-characters-by-frequency) |
 | [0219-contains-duplicate-ii](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0219-contains-duplicate-ii) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Sorting
 |  |
 | ------- |
@@ -227,6 +229,7 @@
 | [0347-top-k-frequent-elements](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0347-top-k-frequent-elements) |
 | [0229-majority-element-ii](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0451-sort-characters-by-frequency) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Quickselect
 |  |
 | ------- |
@@ -326,6 +329,7 @@
 | [0136-single-number](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0231-power-of-two) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Union Find
 |  |
 | ------- |
@@ -358,6 +362,7 @@
 | [0072-edit-distance](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0072-edit-distance) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [0451-sort-characters-by-frequency](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0451-sort-characters-by-frequency) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Sliding Window
 |  |
 | ------- |
