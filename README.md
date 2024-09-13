@@ -21,6 +21,7 @@
 | [0231-power-of-two](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0231-power-of-two) |
 | [2155-find-missing-observations](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2155-find-missing-observations) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [0062-unique-paths](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0062-unique-paths) |
 ## Simulation
 |  |
 | ------- |
@@ -260,6 +261,7 @@
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0064-minimum-path-sum](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0064-minimum-path-sum) |
+| [0062-unique-paths](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0062-unique-paths) |
 ## Two Pointers
 |  |
 | ------- |
@@ -421,4 +423,8 @@
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
