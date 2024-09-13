@@ -137,6 +137,7 @@
 | [0219-contains-duplicate-ii](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0219-contains-duplicate-ii) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1646-kth-missing-positive-number](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1646-kth-missing-positive-number) |
+| [1435-xor-queries-of-a-subarray](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1435-xor-queries-of-a-subarray) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -334,6 +335,7 @@
 | [0231-power-of-two](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0231-power-of-two) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1435-xor-queries-of-a-subarray](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1435-xor-queries-of-a-subarray) |
 ## Union Find
 |  |
 | ------- |
@@ -385,6 +387,7 @@
 | ------- |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [1435-xor-queries-of-a-subarray](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1435-xor-queries-of-a-subarray) |
 ## String Matching
 |  |
 | ------- |
