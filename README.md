@@ -140,6 +140,7 @@
 | [1435-xor-queries-of-a-subarray](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1435-xor-queries-of-a-subarray) |
 | [0967-minimum-falling-path-sum](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0967-minimum-falling-path-sum) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [0120-triangle](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0120-triangle) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -267,6 +268,7 @@
 | [0064-minimum-path-sum](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0064-minimum-path-sum) |
 | [0062-unique-paths](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0062-unique-paths) |
 | [0967-minimum-falling-path-sum](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0967-minimum-falling-path-sum) |
+| [0120-triangle](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0120-triangle) |
 ## Two Pointers
 |  |
 | ------- |
