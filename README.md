@@ -139,6 +139,7 @@
 | [1646-kth-missing-positive-number](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1646-kth-missing-positive-number) |
 | [1435-xor-queries-of-a-subarray](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1435-xor-queries-of-a-subarray) |
 | [0967-minimum-falling-path-sum](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0967-minimum-falling-path-sum) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -339,6 +340,7 @@
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1435-xor-queries-of-a-subarray](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1435-xor-queries-of-a-subarray) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Union Find
 |  |
 | ------- |
@@ -433,4 +435,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0062-unique-paths) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
