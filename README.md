@@ -144,6 +144,7 @@
 | [0120-triangle](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0120-triangle) |
 | [0539-minimum-time-difference](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0539-minimum-time-difference) |
 | [0004-median-of-two-sorted-arrays](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0004-median-of-two-sorted-arrays) |
+| [2227-sum-of-subarray-ranges](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2227-sum-of-subarray-ranges) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -295,6 +296,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0943-sum-of-subarray-minimums](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0943-sum-of-subarray-minimums) |
+| [2227-sum-of-subarray-ranges](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2227-sum-of-subarray-ranges) |
 ## Design
 |  |
 | ------- |
@@ -412,6 +414,7 @@
 | [0496-next-greater-element-i](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0943-sum-of-subarray-minimums) |
+| [2227-sum-of-subarray-ranges](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2227-sum-of-subarray-ranges) |
 ## Linked List
 |  |
 | ------- |
