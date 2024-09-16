@@ -143,6 +143,7 @@
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [0120-triangle](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0120-triangle) |
 | [0539-minimum-time-difference](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0539-minimum-time-difference) |
+| [0004-median-of-two-sorted-arrays](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0004-median-of-two-sorted-arrays) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -218,6 +219,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0347-top-k-frequent-elements) |
 | [0215-kth-largest-element-in-an-array](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0215-kth-largest-element-in-an-array) |
+| [0004-median-of-two-sorted-arrays](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0004-median-of-two-sorted-arrays) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -318,6 +320,7 @@
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [0300-longest-increasing-subsequence](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0300-longest-increasing-subsequence) |
 | [1646-kth-missing-positive-number](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1646-kth-missing-positive-number) |
+| [0004-median-of-two-sorted-arrays](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0004-median-of-two-sorted-arrays) |
 ## Iterator
 |  |
 | ------- |
