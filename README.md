@@ -22,6 +22,7 @@
 | [2155-find-missing-observations](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2155-find-missing-observations) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [0062-unique-paths](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0062-unique-paths) |
+| [0539-minimum-time-difference](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0539-minimum-time-difference) |
 ## Simulation
 |  |
 | ------- |
@@ -141,6 +142,7 @@
 | [0967-minimum-falling-path-sum](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0967-minimum-falling-path-sum) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [0120-triangle](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0120-triangle) |
+| [0539-minimum-time-difference](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0539-minimum-time-difference) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -210,6 +212,7 @@
 | [0876-hand-of-straights](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0876-hand-of-straights) |
 | [0229-majority-element-ii](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0451-sort-characters-by-frequency) |
+| [0539-minimum-time-difference](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0539-minimum-time-difference) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -376,6 +379,7 @@
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [0451-sort-characters-by-frequency](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0451-sort-characters-by-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1786-count-the-number-of-consistent-strings) |
+| [0539-minimum-time-difference](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0539-minimum-time-difference) |
 ## Sliding Window
 |  |
 | ------- |
