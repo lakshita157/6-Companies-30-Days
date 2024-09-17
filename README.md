@@ -201,6 +201,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0451-sort-characters-by-frequency) |
 | [0219-contains-duplicate-ii](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0219-contains-duplicate-ii) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1786-count-the-number-of-consistent-strings) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0920-uncommon-words-from-two-sentences) |
 ## Sorting
 |  |
 | ------- |
@@ -243,6 +244,7 @@
 | [0229-majority-element-ii](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0451-sort-characters-by-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1786-count-the-number-of-consistent-strings) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0920-uncommon-words-from-two-sentences) |
 ## Quickselect
 |  |
 | ------- |
@@ -385,6 +387,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0451-sort-characters-by-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1786-count-the-number-of-consistent-strings) |
 | [0539-minimum-time-difference](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0539-minimum-time-difference) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0920-uncommon-words-from-two-sentences) |
 ## Sliding Window
 |  |
 | ------- |
