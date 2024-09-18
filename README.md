@@ -145,6 +145,7 @@
 | [0539-minimum-time-difference](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0539-minimum-time-difference) |
 | [0004-median-of-two-sorted-arrays](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0004-median-of-two-sorted-arrays) |
 | [2227-sum-of-subarray-ranges](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2227-sum-of-subarray-ranges) |
+| [0179-largest-number](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0179-largest-number) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -216,6 +217,7 @@
 | [0229-majority-element-ii](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0451-sort-characters-by-frequency) |
 | [0539-minimum-time-difference](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0539-minimum-time-difference) |
+| [0179-largest-number](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0179-largest-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -388,6 +390,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1786-count-the-number-of-consistent-strings) |
 | [0539-minimum-time-difference](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0539-minimum-time-difference) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0179-largest-number](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0179-largest-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -401,6 +404,7 @@
 | [1966-frequency-of-the-most-frequent-element](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2032-largest-odd-number-in-string](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2032-largest-odd-number-in-string) |
 | [0876-hand-of-straights](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0876-hand-of-straights) |
+| [0179-largest-number](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0179-largest-number) |
 ## Prefix Sum
 |  |
 | ------- |
