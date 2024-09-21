@@ -48,6 +48,7 @@
 | [0776-n-ary-tree-postorder-traversal](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0110-balanced-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1484-linked-list-in-binary-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -81,6 +82,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0145-binary-tree-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0110-balanced-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1484-linked-list-in-binary-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Array
 |  |
 | ------- |
@@ -234,6 +236,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0451-sort-characters-by-frequency) |
 | [0744-network-delay-time](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -305,6 +308,7 @@
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0173-binary-search-tree-iterator) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -327,6 +331,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0300-longest-increasing-subsequence) |
 | [1646-kth-missing-positive-number](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1646-kth-missing-positive-number) |
 | [0004-median-of-two-sorted-arrays](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0004-median-of-two-sorted-arrays) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Iterator
 |  |
 | ------- |
@@ -458,4 +463,8 @@
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
