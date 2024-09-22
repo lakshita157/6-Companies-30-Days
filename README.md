@@ -282,6 +282,7 @@
 | [0062-unique-paths](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0062-unique-paths) |
 | [0967-minimum-falling-path-sum](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0967-minimum-falling-path-sum) |
 | [0120-triangle](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0120-triangle) |
+| [0044-wildcard-matching](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0044-wildcard-matching) |
 ## Two Pointers
 |  |
 | ------- |
@@ -346,6 +347,7 @@
 | [0224-basic-calculator](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0231-power-of-two) |
 | [0206-reverse-linked-list](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0206-reverse-linked-list) |
+| [0044-wildcard-matching](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0044-wildcard-matching) |
 ## Memoization
 |  |
 | ------- |
@@ -396,6 +398,7 @@
 | [0539-minimum-time-difference](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0539-minimum-time-difference) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0179-largest-number](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0179-largest-number) |
+| [0044-wildcard-matching](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0044-wildcard-matching) |
 ## Sliding Window
 |  |
 | ------- |
@@ -410,6 +413,7 @@
 | [2032-largest-odd-number-in-string](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2032-largest-odd-number-in-string) |
 | [0876-hand-of-straights](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0876-hand-of-straights) |
 | [0179-largest-number](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0179-largest-number) |
+| [0044-wildcard-matching](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0044-wildcard-matching) |
 ## Prefix Sum
 |  |
 | ------- |
