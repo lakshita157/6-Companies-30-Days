@@ -49,6 +49,7 @@
 | [0110-balanced-binary-tree](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0110-balanced-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1484-linked-list-in-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -83,6 +84,7 @@
 | [0110-balanced-binary-tree](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0110-balanced-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1484-linked-list-in-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Array
 |  |
 | ------- |
@@ -167,6 +169,7 @@
 | [1484-linked-list-in-binary-tree](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1484-linked-list-in-binary-tree) |
 | [0744-network-delay-time](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Matrix
 |  |
 | ------- |
@@ -283,6 +286,7 @@
 | [0967-minimum-falling-path-sum](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0967-minimum-falling-path-sum) |
 | [0120-triangle](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0120-triangle) |
 | [0044-wildcard-matching](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0044-wildcard-matching) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Two Pointers
 |  |
 | ------- |
