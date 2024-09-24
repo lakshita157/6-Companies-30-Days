@@ -71,6 +71,7 @@
 | [0744-network-delay-time](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0207-course-schedule](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0210-course-schedule-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -172,6 +173,7 @@
 | [0803-cheapest-flights-within-k-stops](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0207-course-schedule](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0210-course-schedule-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -387,6 +389,7 @@
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0207-course-schedule](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0210-course-schedule-ii) |
 ## String
 |  |
 | ------- |
@@ -463,6 +466,7 @@
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [0207-course-schedule](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0210-course-schedule-ii) |
 ## Number Theory
 |  |
 | ------- |
