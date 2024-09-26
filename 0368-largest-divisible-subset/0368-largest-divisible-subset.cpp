@@ -25,7 +25,7 @@ public:
             ans.push_back(nums[i]);
         }
 
-        reverse(ans.begin(),ans.end());
+        
         return ans;
     }
 };
