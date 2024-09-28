@@ -73,6 +73,7 @@
 | [0803-cheapest-flights-within-k-stops](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0207-course-schedule](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0210-course-schedule-ii) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Binary Tree
 |  |
 | ------- |
@@ -176,6 +177,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0207-course-schedule](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0210-course-schedule-ii) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Matrix
 |  |
 | ------- |
@@ -385,6 +387,7 @@
 | [2035-count-sub-islands](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2035-count-sub-islands) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1753-path-with-minimum-effort](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1753-path-with-minimum-effort) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Graph
 |  |
 | ------- |
@@ -396,6 +399,7 @@
 | [0803-cheapest-flights-within-k-stops](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0207-course-schedule](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0210-course-schedule-ii) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## String
 |  |
 | ------- |
