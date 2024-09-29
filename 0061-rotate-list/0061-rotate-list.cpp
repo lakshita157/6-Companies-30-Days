@@ -20,19 +20,7 @@ public:
 
         return sz;
     }
-    ListNode* reverse(ListNode* head){
-        ListNode* temp = head;
-        ListNode* prev = NULL;
-        ListNode* curr = head;
-        while(head!=NULL){
-            ListNode* nxt = curr->next;
-            curr->next = prev;
-            prev = curr;
-            curr=nxt;
-        }
-
-        return head;
-    }
+   
     ListNode* rotateRight(ListNode* head, int k) {
        
         if(head == NULL || k==0|| head->next == NULL)return head;
@@ -46,7 +34,7 @@ public:
         for(int i=1;i<sz-k; i++ ){
             temp = temp->next;
         }
-        
+
         ListNode* newhead = temp->next;
         temp->next = NULL;
         ListNode* newheadtail = newhead;
