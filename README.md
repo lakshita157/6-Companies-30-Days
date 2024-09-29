@@ -313,6 +313,7 @@
 | [0141-linked-list-cycle](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0141-linked-list-cycle) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [0061-rotate-list](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0061-rotate-list) |
 ## Stack
 |  |
 | ------- |
@@ -473,6 +474,7 @@
 | [1484-linked-list-in-binary-tree](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1484-linked-list-in-binary-tree) |
 | [2411-spiral-matrix-iv](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [0061-rotate-list](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0061-rotate-list) |
 ## Shortest Path
 |  |
 | ------- |
