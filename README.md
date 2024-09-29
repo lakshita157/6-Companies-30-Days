@@ -155,6 +155,7 @@
 | [2227-sum-of-subarray-ranges](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2227-sum-of-subarray-ranges) |
 | [0179-largest-number](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0179-largest-number) |
 | [0368-largest-divisible-subset](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0368-largest-divisible-subset) |
+| [0074-search-a-2d-matrix](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0074-search-a-2d-matrix) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -195,6 +196,7 @@
 | [2411-spiral-matrix-iv](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2411-spiral-matrix-iv) |
 | [0064-minimum-path-sum](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0064-minimum-path-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0967-minimum-falling-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0074-search-a-2d-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -349,6 +351,7 @@
 | [1646-kth-missing-positive-number](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1646-kth-missing-positive-number) |
 | [0004-median-of-two-sorted-arrays](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0004-median-of-two-sorted-arrays) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0074-search-a-2d-matrix](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0074-search-a-2d-matrix) |
 ## Iterator
 |  |
 | ------- |
