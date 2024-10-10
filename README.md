@@ -24,6 +24,7 @@
 | [0062-unique-paths](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0062-unique-paths) |
 | [0539-minimum-time-difference](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0539-minimum-time-difference) |
 | [0368-largest-divisible-subset](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0368-largest-divisible-subset) |
+| [0070-climbing-stairs](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0070-climbing-stairs) |
 ## Simulation
 |  |
 | ------- |
@@ -303,6 +304,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0678-valid-parenthesis-string](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0678-valid-parenthesis-string) |
 | [0368-largest-divisible-subset](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0368-largest-divisible-subset) |
+| [0070-climbing-stairs](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0070-climbing-stairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -376,6 +378,7 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1013-fibonacci-number) |
+| [0070-climbing-stairs](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0070-climbing-stairs) |
 ## Bit Manipulation
 |  |
 | ------- |
