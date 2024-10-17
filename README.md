@@ -159,6 +159,7 @@
 | [0074-search-a-2d-matrix](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0240-search-a-2d-matrix-ii) |
 | [1002-maximum-width-ramp](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1002-maximum-width-ramp) |
+| [0042-trapping-rain-water](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0042-trapping-rain-water) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -306,6 +307,7 @@
 | [0678-valid-parenthesis-string](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0678-valid-parenthesis-string) |
 | [0368-largest-divisible-subset](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0368-largest-divisible-subset) |
 | [0070-climbing-stairs](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0070-climbing-stairs) |
+| [0042-trapping-rain-water](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0042-trapping-rain-water) |
 ## Two Pointers
 |  |
 | ------- |
@@ -317,6 +319,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [0061-rotate-list](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0061-rotate-list) |
+| [0042-trapping-rain-water](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0042-trapping-rain-water) |
 ## Stack
 |  |
 | ------- |
@@ -331,6 +334,7 @@
 | [2227-sum-of-subarray-ranges](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2227-sum-of-subarray-ranges) |
 | [0678-valid-parenthesis-string](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0678-valid-parenthesis-string) |
 | [1002-maximum-width-ramp](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1002-maximum-width-ramp) |
+| [0042-trapping-rain-water](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0042-trapping-rain-water) |
 ## Design
 |  |
 | ------- |
@@ -467,6 +471,7 @@
 | [0943-sum-of-subarray-minimums](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0943-sum-of-subarray-minimums) |
 | [2227-sum-of-subarray-ranges](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2227-sum-of-subarray-ranges) |
 | [1002-maximum-width-ramp](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1002-maximum-width-ramp) |
+| [0042-trapping-rain-water](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0042-trapping-rain-water) |
 ## Linked List
 |  |
 | ------- |
