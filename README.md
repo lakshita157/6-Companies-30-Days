@@ -161,6 +161,7 @@
 | [1002-maximum-width-ramp](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1002-maximum-width-ramp) |
 | [0042-trapping-rain-water](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0056-merge-intervals) |
+| [0073-set-matrix-zeroes](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0073-set-matrix-zeroes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -203,6 +204,7 @@
 | [0967-minimum-falling-path-sum](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0967-minimum-falling-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0240-search-a-2d-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0073-set-matrix-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -224,6 +226,7 @@
 | [0219-contains-duplicate-ii](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0219-contains-duplicate-ii) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1786-count-the-number-of-consistent-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0073-set-matrix-zeroes](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0073-set-matrix-zeroes) |
 ## Sorting
 |  |
 | ------- |
