@@ -52,6 +52,7 @@
 | [1484-linked-list-in-binary-tree](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1484-linked-list-in-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -75,6 +76,7 @@
 | [0207-course-schedule](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0210-course-schedule-ii) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Binary Tree
 |  |
 | ------- |
@@ -90,6 +92,7 @@
 | [1484-linked-list-in-binary-tree](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1484-linked-list-in-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Array
 |  |
 | ------- |
@@ -188,6 +191,7 @@
 | [0207-course-schedule](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0210-course-schedule-ii) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Matrix
 |  |
 | ------- |
@@ -503,6 +507,7 @@
 | [2411-spiral-matrix-iv](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [0061-rotate-list](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0061-rotate-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Shortest Path
 |  |
 | ------- |
