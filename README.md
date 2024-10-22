@@ -342,6 +342,7 @@
 | [0042-trapping-rain-water](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0075-sort-colors) |
 | [0018-4sum](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0018-4sum) |
+| [0908-middle-of-the-linked-list](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0908-middle-of-the-linked-list) |
 ## Stack
 |  |
 | ------- |
@@ -510,6 +511,7 @@
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [0061-rotate-list](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0061-rotate-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0908-middle-of-the-linked-list](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0908-middle-of-the-linked-list) |
 ## Shortest Path
 |  |
 | ------- |
