@@ -403,6 +403,7 @@
 | [0231-power-of-two](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0231-power-of-two) |
 | [0206-reverse-linked-list](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0206-reverse-linked-list) |
 | [0044-wildcard-matching](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0044-wildcard-matching) |
+| [0021-merge-two-sorted-lists](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0021-merge-two-sorted-lists) |
 ## Memoization
 |  |
 | ------- |
@@ -512,6 +513,7 @@
 | [0061-rotate-list](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0061-rotate-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0908-middle-of-the-linked-list](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0908-middle-of-the-linked-list) |
+| [0021-merge-two-sorted-lists](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0021-merge-two-sorted-lists) |
 ## Shortest Path
 |  |
 | ------- |
