@@ -53,6 +53,7 @@
 | [0789-kth-largest-element-in-a-stream](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0094-binary-tree-inorder-traversal](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0094-binary-tree-inorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -93,6 +94,7 @@
 | [0789-kth-largest-element-in-a-stream](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0094-binary-tree-inorder-traversal](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0094-binary-tree-inorder-traversal) |
 ## Array
 |  |
 | ------- |
@@ -193,6 +195,7 @@
 | [0210-course-schedule-ii](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0210-course-schedule-ii) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0094-binary-tree-inorder-traversal](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0094-binary-tree-inorder-traversal) |
 ## Matrix
 |  |
 | ------- |
@@ -358,6 +361,7 @@
 | [0678-valid-parenthesis-string](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0678-valid-parenthesis-string) |
 | [1002-maximum-width-ramp](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1002-maximum-width-ramp) |
 | [0042-trapping-rain-water](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0094-binary-tree-inorder-traversal) |
 ## Design
 |  |
 | ------- |
