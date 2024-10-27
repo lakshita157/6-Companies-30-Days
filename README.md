@@ -306,6 +306,7 @@
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [0197-rising-temperature](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0197-rising-temperature) |
 | [1801-average-time-of-process-per-machine](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1801-average-time-of-process-per-machine) |
+| [0577-employee-bonus](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0577-employee-bonus) |
 ## Dynamic Programming
 |  |
 | ------- |
