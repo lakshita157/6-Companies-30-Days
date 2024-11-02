@@ -55,6 +55,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0094-binary-tree-inorder-traversal](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0094-binary-tree-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -97,6 +98,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0094-binary-tree-inorder-traversal](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0094-binary-tree-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Array
 |  |
 | ------- |
@@ -175,6 +177,7 @@
 | [0152-maximum-product-subarray](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0152-maximum-product-subarray) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -381,6 +384,7 @@
 | [1002-maximum-width-ramp](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1002-maximum-width-ramp) |
 | [0042-trapping-rain-water](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0094-binary-tree-inorder-traversal) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Design
 |  |
 | ------- |
@@ -412,6 +416,7 @@
 | [0074-search-a-2d-matrix](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0240-search-a-2d-matrix-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Iterator
 |  |
 | ------- |
@@ -521,6 +526,7 @@
 | [2227-sum-of-subarray-ranges](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2227-sum-of-subarray-ranges) |
 | [1002-maximum-width-ramp](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1002-maximum-width-ramp) |
 | [0042-trapping-rain-water](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0042-trapping-rain-water) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Linked List
 |  |
 | ------- |
