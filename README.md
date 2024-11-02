@@ -56,6 +56,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0094-binary-tree-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0098-validate-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -99,6 +100,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0094-binary-tree-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0098-validate-binary-search-tree) |
 ## Array
 |  |
 | ------- |
@@ -203,6 +205,7 @@
 | [1442-number-of-operations-to-make-network-connected](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0094-binary-tree-inorder-traversal](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0098-validate-binary-search-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -417,6 +420,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0240-search-a-2d-matrix-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0098-validate-binary-search-tree) |
 ## Iterator
 |  |
 | ------- |
