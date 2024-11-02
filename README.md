@@ -312,6 +312,7 @@
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [2087-confirmation-rate](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2087-confirmation-rate) |
 | [0620-not-boring-movies](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0620-not-boring-movies) |
+| [1390-average-selling-price](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1390-average-selling-price) |
 ## Dynamic Programming
 |  |
 | ------- |
