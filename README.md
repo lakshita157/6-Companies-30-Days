@@ -171,6 +171,7 @@
 | [0018-4sum](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0018-4sum) |
 | [0646-maximum-length-of-pair-chain](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0646-maximum-length-of-pair-chain) |
 | [0152-maximum-product-subarray](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0152-maximum-product-subarray) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -258,6 +259,7 @@
 | [0075-sort-colors](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0075-sort-colors) |
 | [0018-4sum](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0018-4sum) |
 | [0646-maximum-length-of-pair-chain](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0646-maximum-length-of-pair-chain) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -338,6 +340,7 @@
 | [0042-trapping-rain-water](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0042-trapping-rain-water) |
 | [0646-maximum-length-of-pair-chain](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0646-maximum-length-of-pair-chain) |
 | [0152-maximum-product-subarray](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0152-maximum-product-subarray) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Two Pointers
 |  |
 | ------- |
