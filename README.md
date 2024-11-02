@@ -313,6 +313,7 @@
 | [2087-confirmation-rate](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2087-confirmation-rate) |
 | [0620-not-boring-movies](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0620-not-boring-movies) |
 | [1390-average-selling-price](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1390-average-selling-price) |
+| [1161-project-employees-i](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1161-project-employees-i) |
 ## Dynamic Programming
 |  |
 | ------- |
