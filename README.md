@@ -310,6 +310,7 @@
 | [1801-average-time-of-process-per-machine](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1801-average-time-of-process-per-machine) |
 | [0577-employee-bonus](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0577-employee-bonus) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0570-managers-with-at-least-5-direct-reports) |
+| [2087-confirmation-rate](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2087-confirmation-rate) |
 ## Dynamic Programming
 |  |
 | ------- |
