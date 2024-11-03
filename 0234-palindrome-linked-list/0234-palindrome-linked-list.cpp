@@ -29,37 +29,55 @@ public:
 
     }
     bool isPalindrome(ListNode* head) {
-        ListNode* clone = new ListNode(-1);
-        ListNode* temp1 =clone;
 
+        stack<int>st;
         ListNode* temp = head;
-        while(temp!=NULL){
-            ListNode* copy = new ListNode(temp->val);
-            temp1->next = copy;
-            temp1=copy;
+        while(temp){
+            st.push(temp->val);
             temp = temp->next;
         }
-        clone = clone->next;
-        ListNode* dummy = reverse(clone);
-
-        // while(head!=NULL){
-        //     cout<<head->val<<" ";
-        //     head= head->next;
-        // }
-       
-        while(head!=NULL && dummy!=NULL){
-            if(head->val != dummy->val){
+        temp = head;
+        while(temp){
+            if(temp->val!=st.top()){
                 return false;
             }
-            else{
-                dummy = dummy->next;
-                head = head->next;
-            }
-            
-            
-            
+            temp = temp->next;
+            st.pop();
         }
 
         return true;
+        
+//         ListNode* clone = new ListNode(-1);
+//         ListNode* temp1 =clone;
+
+//         ListNode* temp = head;
+//         while(temp!=NULL){
+//             ListNode* copy = new ListNode(temp->val);
+//             temp1->next = copy;
+//             temp1=copy;
+//             temp = temp->next;
+//         }
+//         clone = clone->next;
+//         ListNode* dummy = reverse(clone);
+
+// //         while(clone!=NULL){
+// //             cout<<clone->val<<" ";
+// //             clone= clone->next;
+// //         }
+       
+//         while(head!=NULL && dummy!=NULL){
+//             if(head->val != dummy->val){
+//                 return false;
+//             }
+//             else{
+//                 dummy = dummy->next;
+//                 head = head->next;
+//             }
+            
+            
+            
+//         }
+
+//         return true;
     }
 };
