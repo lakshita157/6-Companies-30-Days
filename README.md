@@ -250,6 +250,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1786-count-the-number-of-consistent-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0073-set-matrix-zeroes](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0073-set-matrix-zeroes) |
+| [0160-intersection-of-two-linked-lists](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0160-intersection-of-two-linked-lists) |
 ## Sorting
 |  |
 | ------- |
@@ -374,6 +375,7 @@
 | [0075-sort-colors](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0075-sort-colors) |
 | [0018-4sum](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0018-4sum) |
 | [0908-middle-of-the-linked-list](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0908-middle-of-the-linked-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0160-intersection-of-two-linked-lists) |
 ## Stack
 |  |
 | ------- |
@@ -552,6 +554,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0908-middle-of-the-linked-list](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0908-middle-of-the-linked-list) |
 | [0021-merge-two-sorted-lists](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0021-merge-two-sorted-lists) |
+| [0160-intersection-of-two-linked-lists](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0160-intersection-of-two-linked-lists) |
 ## Shortest Path
 |  |
 | ------- |
