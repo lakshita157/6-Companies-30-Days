@@ -181,6 +181,7 @@
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [0485-max-consecutive-ones](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0485-max-consecutive-ones) |
 ## Depth-First Search
 |  |
 | ------- |
