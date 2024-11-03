@@ -330,6 +330,7 @@
 | [1338-queries-quality-and-percentage](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1338-queries-quality-and-percentage) |
 | [1317-monthly-transactions-i](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1317-monthly-transactions-i) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+| [1245-user-activity-for-the-past-30-days-i](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1245-user-activity-for-the-past-30-days-i) |
 ## Dynamic Programming
 |  |
 | ------- |
