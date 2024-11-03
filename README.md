@@ -25,6 +25,7 @@
 | [0539-minimum-time-difference](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0539-minimum-time-difference) |
 | [0368-largest-divisible-subset](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0368-largest-divisible-subset) |
 | [0070-climbing-stairs](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0070-climbing-stairs) |
+| [0923-super-egg-drop](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0923-super-egg-drop) |
 ## Simulation
 |  |
 | ------- |
@@ -356,6 +357,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0646-maximum-length-of-pair-chain) |
 | [0152-maximum-product-subarray](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0152-maximum-product-subarray) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [0923-super-egg-drop](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0923-super-egg-drop) |
 ## Two Pointers
 |  |
 | ------- |
@@ -421,6 +423,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0098-validate-binary-search-tree) |
+| [0923-super-egg-drop](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0923-super-egg-drop) |
 ## Iterator
 |  |
 | ------- |
