@@ -376,6 +376,7 @@
 | [0018-4sum](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0018-4sum) |
 | [0908-middle-of-the-linked-list](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0908-middle-of-the-linked-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
 | ------- |
@@ -393,6 +394,7 @@
 | [0042-trapping-rain-water](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0094-binary-tree-inorder-traversal) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0234-palindrome-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -443,6 +445,7 @@
 | [0206-reverse-linked-list](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0206-reverse-linked-list) |
 | [0044-wildcard-matching](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0044-wildcard-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0021-merge-two-sorted-lists) |
+| [0234-palindrome-linked-list](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0234-palindrome-linked-list) |
 ## Memoization
 |  |
 | ------- |
@@ -555,6 +558,7 @@
 | [0908-middle-of-the-linked-list](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0908-middle-of-the-linked-list) |
 | [0021-merge-two-sorted-lists](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0021-merge-two-sorted-lists) |
 | [0160-intersection-of-two-linked-lists](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0234-palindrome-linked-list) |
 ## Shortest Path
 |  |
 | ------- |
