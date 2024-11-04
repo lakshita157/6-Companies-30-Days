@@ -251,6 +251,7 @@
 | [0920-uncommon-words-from-two-sentences](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0073-set-matrix-zeroes](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0073-set-matrix-zeroes) |
 | [0160-intersection-of-two-linked-lists](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0160-intersection-of-two-linked-lists) |
+| [0142-linked-list-cycle-ii](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0142-linked-list-cycle-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -381,6 +382,7 @@
 | [0908-middle-of-the-linked-list](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0908-middle-of-the-linked-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0234-palindrome-linked-list) |
+| [0142-linked-list-cycle-ii](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0142-linked-list-cycle-ii) |
 ## Stack
 |  |
 | ------- |
@@ -567,6 +569,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0021-merge-two-sorted-lists) |
 | [0160-intersection-of-two-linked-lists](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0234-palindrome-linked-list) |
+| [0142-linked-list-cycle-ii](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0142-linked-list-cycle-ii) |
 ## Shortest Path
 |  |
 | ------- |
