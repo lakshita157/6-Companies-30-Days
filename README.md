@@ -507,6 +507,7 @@
 | [0179-largest-number](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0179-largest-number) |
 | [0044-wildcard-matching](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0044-wildcard-matching) |
 | [0678-valid-parenthesis-string](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0678-valid-parenthesis-string) |
+| [0008-string-to-integer-atoi](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0008-string-to-integer-atoi) |
 ## Sliding Window
 |  |
 | ------- |
