@@ -333,6 +333,7 @@
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [0596-classes-more-than-5-students](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0596-classes-more-than-5-students) |
+| [1877-find-followers-count](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1877-find-followers-count) |
 ## Dynamic Programming
 |  |
 | ------- |
