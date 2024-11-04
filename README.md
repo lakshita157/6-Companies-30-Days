@@ -399,6 +399,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0094-binary-tree-inorder-traversal) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0234-palindrome-linked-list) |
+| [0020-valid-parentheses](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0020-valid-parentheses) |
 ## Design
 |  |
 | ------- |
@@ -508,6 +509,7 @@
 | [0044-wildcard-matching](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0044-wildcard-matching) |
 | [0678-valid-parenthesis-string](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0678-valid-parenthesis-string) |
 | [0008-string-to-integer-atoi](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0008-string-to-integer-atoi) |
+| [0020-valid-parentheses](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0020-valid-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
