@@ -26,6 +26,7 @@
 | [0368-largest-divisible-subset](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0368-largest-divisible-subset) |
 | [0070-climbing-stairs](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0070-climbing-stairs) |
 | [0923-super-egg-drop](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0923-super-egg-drop) |
+| [0223-rectangle-area](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0223-rectangle-area) |
 ## Simulation
 |  |
 | ------- |
@@ -601,4 +602,8 @@
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0789-kth-largest-element-in-a-stream) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
