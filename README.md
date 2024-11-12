@@ -83,6 +83,7 @@
 | [0210-course-schedule-ii](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0210-course-schedule-ii) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0200-number-of-islands](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -183,6 +184,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [0485-max-consecutive-ones](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0485-max-consecutive-ones) |
+| [0200-number-of-islands](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0200-number-of-islands) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -209,6 +211,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0094-binary-tree-inorder-traversal](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0098-validate-binary-search-tree) |
+| [0200-number-of-islands](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0200-number-of-islands) |
 ## Matrix
 |  |
 | ------- |
@@ -229,6 +232,7 @@
 | [0074-search-a-2d-matrix](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0240-search-a-2d-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0200-number-of-islands) |
 ## Hash Table
 |  |
 | ------- |
@@ -483,6 +487,7 @@
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1753-path-with-minimum-effort](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1753-path-with-minimum-effort) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [0200-number-of-islands](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0200-number-of-islands) |
 ## Graph
 |  |
 | ------- |
