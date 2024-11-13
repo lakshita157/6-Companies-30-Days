@@ -523,6 +523,7 @@
 | [0008-string-to-integer-atoi](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0020-valid-parentheses) |
 | [3451-string-compression-iii](https://github.com/lakshita157/6-Companies-30-Days/tree/master/3451-string-compression-iii) |
+| [0014-longest-common-prefix](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0014-longest-common-prefix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -613,4 +614,8 @@
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0223-rectangle-area) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
