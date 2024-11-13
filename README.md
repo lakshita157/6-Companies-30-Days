@@ -374,6 +374,7 @@
 | [0152-maximum-product-subarray](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0152-maximum-product-subarray) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [0923-super-egg-drop](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0923-super-egg-drop) |
+| [0005-longest-palindromic-substring](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0005-longest-palindromic-substring) |
 ## Two Pointers
 |  |
 | ------- |
@@ -392,6 +393,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0234-palindrome-linked-list) |
 | [0142-linked-list-cycle-ii](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0142-linked-list-cycle-ii) |
+| [0005-longest-palindromic-substring](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0005-longest-palindromic-substring) |
 ## Stack
 |  |
 | ------- |
@@ -524,6 +526,7 @@
 | [0020-valid-parentheses](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0020-valid-parentheses) |
 | [3451-string-compression-iii](https://github.com/lakshita157/6-Companies-30-Days/tree/master/3451-string-compression-iii) |
 | [0014-longest-common-prefix](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0014-longest-common-prefix) |
+| [0005-longest-palindromic-substring](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0005-longest-palindromic-substring) |
 ## Sliding Window
 |  |
 | ------- |
