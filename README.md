@@ -185,6 +185,7 @@
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [0485-max-consecutive-ones](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0485-max-consecutive-ones) |
 | [0200-number-of-islands](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0200-number-of-islands) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -447,6 +448,7 @@
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0098-validate-binary-search-tree) |
 | [0923-super-egg-drop](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0923-super-egg-drop) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 ## Iterator
 |  |
 | ------- |
