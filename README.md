@@ -186,6 +186,7 @@
 | [0485-max-consecutive-ones](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0485-max-consecutive-ones) |
 | [0200-number-of-islands](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0200-number-of-islands) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [0410-split-array-largest-sum](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0410-split-array-largest-sum) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -376,6 +377,7 @@
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [0923-super-egg-drop](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0923-super-egg-drop) |
 | [0005-longest-palindromic-substring](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0005-longest-palindromic-substring) |
+| [0410-split-array-largest-sum](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0410-split-array-largest-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -449,6 +451,7 @@
 | [0098-validate-binary-search-tree](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0098-validate-binary-search-tree) |
 | [0923-super-egg-drop](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0923-super-egg-drop) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [0410-split-array-largest-sum](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0410-split-array-largest-sum) |
 ## Iterator
 |  |
 | ------- |
@@ -546,12 +549,14 @@
 | [0044-wildcard-matching](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0044-wildcard-matching) |
 | [0678-valid-parenthesis-string](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0678-valid-parenthesis-string) |
 | [0646-maximum-length-of-pair-chain](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0646-maximum-length-of-pair-chain) |
+| [0410-split-array-largest-sum](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0410-split-array-largest-sum) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [1435-xor-queries-of-a-subarray](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1435-xor-queries-of-a-subarray) |
+| [0410-split-array-largest-sum](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0410-split-array-largest-sum) |
 ## String Matching
 |  |
 | ------- |
