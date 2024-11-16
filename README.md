@@ -187,6 +187,7 @@
 | [0200-number-of-islands](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0200-number-of-islands) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [0410-split-array-largest-sum](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0410-split-array-largest-sum) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/lakshita157/6-Companies-30-Days/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -538,6 +539,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [0219-contains-duplicate-ii](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0219-contains-duplicate-ii) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/lakshita157/6-Companies-30-Days/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Greedy
 |  |
 | ------- |
