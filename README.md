@@ -27,6 +27,7 @@
 | [0070-climbing-stairs](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0070-climbing-stairs) |
 | [0923-super-egg-drop](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0923-super-egg-drop) |
 | [0223-rectangle-area](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0223-rectangle-area) |
+| [0013-roman-to-integer](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0013-roman-to-integer) |
 ## Simulation
 |  |
 | ------- |
@@ -260,6 +261,7 @@
 | [0073-set-matrix-zeroes](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0073-set-matrix-zeroes) |
 | [0160-intersection-of-two-linked-lists](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0160-intersection-of-two-linked-lists) |
 | [0142-linked-list-cycle-ii](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0142-linked-list-cycle-ii) |
+| [0013-roman-to-integer](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0013-roman-to-integer) |
 ## Sorting
 |  |
 | ------- |
@@ -533,6 +535,7 @@
 | [3451-string-compression-iii](https://github.com/lakshita157/6-Companies-30-Days/tree/master/3451-string-compression-iii) |
 | [0014-longest-common-prefix](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0014-longest-common-prefix) |
 | [0005-longest-palindromic-substring](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0013-roman-to-integer) |
 ## Sliding Window
 |  |
 | ------- |
