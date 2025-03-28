@@ -189,6 +189,7 @@
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [0410-split-array-largest-sum](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0410-split-array-largest-sum) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/lakshita157/6-Companies-30-Days/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [0078-subsets](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0078-subsets) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -487,6 +488,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1435-xor-queries-of-a-subarray](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1435-xor-queries-of-a-subarray) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [0078-subsets](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0078-subsets) |
 ## Union Find
 |  |
 | ------- |
@@ -633,4 +635,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0014-longest-common-prefix) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
