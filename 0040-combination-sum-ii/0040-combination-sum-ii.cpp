@@ -1,30 +1,24 @@
 class Solution {
 public:
-    void func(vector<int>& nums, int indx, vector<int> v, int n, int sum, int target, vector<vector<int>>&ans){
-        if(sum == target){
+    void func(int indx, int target, vector<int>v, vector<int>& c, vector<vector<int>>&ans){
+        if(target==0){
             ans.push_back(v);
             return;
         }
-        else if(sum> target)return;
-
-        for(int i=indx; i<n; i++){
-            if(i != indx && nums[i]==nums[i-1])            
-                continue;
-            
-            sum+=nums[i];
-            v.push_back(nums[i]);
-            func(nums, i+1,  v,n, sum, target,ans );
-            sum-=nums[i];
+        int n = c.size();
+        for(int i=indx;i<n; i++){
+            if(i>indx && c[i]==c[i-1])continue;
+            if(c[i]>target)break;
+            v.push_back(c[i]);
+            func(i+1, target-c[i], v, c, ans);
             v.pop_back();
         }
     }
-    vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {
-        vector<int> v;
+    vector<vector<int>> combinationSum2(vector<int>& c, int target) {
+        sort(c.begin(),c.end());
         vector<vector<int>>ans;
-        // int sum=0;
-        int n = candidates.size();
-        sort(candidates.begin(),candidates.end());
-        func(candidates, 0, v, n, 0, target,ans);
+        vector<int> v;
+        func(0,target, v, c, ans);
         return ans;
     }
 };
