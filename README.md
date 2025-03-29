@@ -384,6 +384,7 @@
 | [0923-super-egg-drop](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0923-super-egg-drop) |
 | [0005-longest-palindromic-substring](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0005-longest-palindromic-substring) |
 | [0410-split-array-largest-sum](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0410-split-array-largest-sum) |
+| [0131-palindrome-partitioning](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0131-palindrome-partitioning) |
 ## Two Pointers
 |  |
 | ------- |
@@ -540,6 +541,7 @@
 | [0014-longest-common-prefix](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0014-longest-common-prefix) |
 | [0005-longest-palindromic-substring](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0013-roman-to-integer) |
+| [0131-palindrome-partitioning](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0131-palindrome-partitioning) |
 ## Sliding Window
 |  |
 | ------- |
@@ -643,4 +645,5 @@
 | [0078-subsets](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0078-subsets) |
 | [0039-combination-sum](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0040-combination-sum-ii) |
+| [0131-palindrome-partitioning](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
