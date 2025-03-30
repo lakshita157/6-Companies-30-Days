@@ -192,6 +192,7 @@
 | [0078-subsets](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0078-subsets) |
 | [0039-combination-sum](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0046-permutations) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -646,4 +647,5 @@
 | [0039-combination-sum](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0040-combination-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0131-palindrome-partitioning) |
+| [0046-permutations](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
