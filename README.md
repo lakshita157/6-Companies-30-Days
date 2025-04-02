@@ -194,6 +194,7 @@
 | [0040-combination-sum-ii](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0051-n-queens) |
+| [0287-find-the-duplicate-number](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0287-find-the-duplicate-number) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -407,6 +408,7 @@
 | [0234-palindrome-linked-list](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0234-palindrome-linked-list) |
 | [0142-linked-list-cycle-ii](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0142-linked-list-cycle-ii) |
 | [0005-longest-palindromic-substring](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0005-longest-palindromic-substring) |
+| [0287-find-the-duplicate-number](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0287-find-the-duplicate-number) |
 ## Stack
 |  |
 | ------- |
@@ -462,6 +464,7 @@
 | [0923-super-egg-drop](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0923-super-egg-drop) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [0410-split-array-largest-sum](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0410-split-array-largest-sum) |
+| [0287-find-the-duplicate-number](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0287-find-the-duplicate-number) |
 ## Iterator
 |  |
 | ------- |
@@ -495,6 +498,7 @@
 | [1435-xor-queries-of-a-subarray](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1435-xor-queries-of-a-subarray) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [0078-subsets](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0078-subsets) |
+| [0287-find-the-duplicate-number](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0287-find-the-duplicate-number) |
 ## Union Find
 |  |
 | ------- |
