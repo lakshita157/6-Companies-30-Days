@@ -195,6 +195,7 @@
 | [0046-permutations](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0051-n-queens) |
 | [0287-find-the-duplicate-number](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0287-find-the-duplicate-number) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -409,6 +410,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0142-linked-list-cycle-ii) |
 | [0005-longest-palindromic-substring](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0005-longest-palindromic-substring) |
 | [0287-find-the-duplicate-number](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0287-find-the-duplicate-number) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Stack
 |  |
 | ------- |
