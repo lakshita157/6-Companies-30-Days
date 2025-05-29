@@ -196,6 +196,7 @@
 | [0051-n-queens](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0051-n-queens) |
 | [0287-find-the-duplicate-number](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0287-find-the-duplicate-number) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -390,6 +391,7 @@
 | [0410-split-array-largest-sum](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0410-split-array-largest-sum) |
 | [0131-palindrome-partitioning](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0131-palindrome-partitioning) |
 | [0022-generate-parentheses](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0022-generate-parentheses) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Two Pointers
 |  |
 | ------- |
