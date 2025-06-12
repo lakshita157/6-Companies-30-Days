@@ -28,6 +28,7 @@
 | [0923-super-egg-drop](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0923-super-egg-drop) |
 | [0223-rectangle-area](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0223-rectangle-area) |
 | [0013-roman-to-integer](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0013-roman-to-integer) |
+| [0012-integer-to-roman](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0012-integer-to-roman) |
 ## Simulation
 |  |
 | ------- |
@@ -270,6 +271,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0160-intersection-of-two-linked-lists) |
 | [0142-linked-list-cycle-ii](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0142-linked-list-cycle-ii) |
 | [0013-roman-to-integer](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0013-roman-to-integer) |
+| [0012-integer-to-roman](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0012-integer-to-roman) |
 ## Sorting
 |  |
 | ------- |
@@ -556,6 +558,7 @@
 | [0013-roman-to-integer](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0013-roman-to-integer) |
 | [0131-palindrome-partitioning](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0131-palindrome-partitioning) |
 | [0022-generate-parentheses](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0022-generate-parentheses) |
+| [0012-integer-to-roman](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0012-integer-to-roman) |
 ## Sliding Window
 |  |
 | ------- |
