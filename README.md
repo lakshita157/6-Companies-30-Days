@@ -29,6 +29,7 @@
 | [0223-rectangle-area](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0223-rectangle-area) |
 | [0013-roman-to-integer](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0013-roman-to-integer) |
 | [0012-integer-to-roman](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0012-integer-to-roman) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0453-minimum-moves-to-equal-array-elements) |
 ## Simulation
 |  |
 | ------- |
@@ -200,6 +201,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0130-surrounded-regions) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0453-minimum-moves-to-equal-array-elements) |
 ## Depth-First Search
 |  |
 | ------- |
