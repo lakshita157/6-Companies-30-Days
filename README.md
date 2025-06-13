@@ -86,6 +86,7 @@
 | [1442-number-of-operations-to-make-network-connected](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0200-number-of-islands](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0200-number-of-islands) |
+| [0130-surrounded-regions](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0130-surrounded-regions) |
 ## Binary Tree
 |  |
 | ------- |
@@ -198,6 +199,7 @@
 | [0287-find-the-duplicate-number](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0287-find-the-duplicate-number) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0130-surrounded-regions](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0130-surrounded-regions) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -225,6 +227,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0098-validate-binary-search-tree) |
 | [0200-number-of-islands](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0200-number-of-islands) |
+| [0130-surrounded-regions](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0130-surrounded-regions) |
 ## Matrix
 |  |
 | ------- |
@@ -246,6 +249,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0240-search-a-2d-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0200-number-of-islands) |
+| [0130-surrounded-regions](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0130-surrounded-regions) |
 ## Hash Table
 |  |
 | ------- |
@@ -518,6 +522,7 @@
 | [1753-path-with-minimum-effort](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1753-path-with-minimum-effort) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [0200-number-of-islands](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0200-number-of-islands) |
+| [0130-surrounded-regions](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0130-surrounded-regions) |
 ## Graph
 |  |
 | ------- |
