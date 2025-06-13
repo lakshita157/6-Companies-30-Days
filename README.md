@@ -41,6 +41,7 @@
 | [0906-walking-robot-simulation](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0906-walking-robot-simulation) |
 | [2155-find-missing-observations](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/lakshita157/6-Companies-30-Days/tree/master/2411-spiral-matrix-iv) |
+| [0874-backspace-string-compare](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0874-backspace-string-compare) |
 ## Tree
 |  |
 | ------- |
@@ -421,6 +422,7 @@
 | [0005-longest-palindromic-substring](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0005-longest-palindromic-substring) |
 | [0287-find-the-duplicate-number](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0287-find-the-duplicate-number) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0874-backspace-string-compare](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0874-backspace-string-compare) |
 ## Stack
 |  |
 | ------- |
@@ -441,6 +443,7 @@
 | [0234-palindrome-linked-list](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0234-palindrome-linked-list) |
 | [0020-valid-parentheses](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0020-valid-parentheses) |
 | [0937-online-stock-span](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0937-online-stock-span) |
+| [0874-backspace-string-compare](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0874-backspace-string-compare) |
 ## Design
 |  |
 | ------- |
@@ -566,6 +569,7 @@
 | [0131-palindrome-partitioning](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0131-palindrome-partitioning) |
 | [0022-generate-parentheses](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0022-generate-parentheses) |
 | [0012-integer-to-roman](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0012-integer-to-roman) |
+| [0874-backspace-string-compare](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0874-backspace-string-compare) |
 ## Sliding Window
 |  |
 | ------- |
