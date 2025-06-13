@@ -1,73 +1,63 @@
 class Solution {
 public:
-    bool check(int i, int j, int n, int m){
+    bool check(int i, int j, int n , int m){
         return i>=0 && j>=0 && i<n && j<m;
     }
-    void solve(vector<vector<char>>& b) {
-        int n = b.size();
-        int m = b[0].size();
-        vector<vector<char>>ans(n, vector<char>(m,'X'));
-        vector<vector<bool>>visit(n, vector<bool>(m,0));
+    void solve(vector<vector<char>>& board) {
+        int n = board.size();
+        int m = board[0].size();
+
+        vector<vector<int>>vis(n, vector<int>(m, 0));
+        vector<vector<char>>ans(n, vector<char>(m, 'X'));
+
         queue<pair<int,int>>q;
-        int row[4] = {-1, 0, 0, 1};
-        int col[4] = {0, -1, 1, 0};
 
-        // first row
-        for(int i=0; i<m; i++){
-            if(b[0][i]=='O'){
-                q.push({0,i});
-                ans[0][i]= 'O';
+        for(int i=0; i<n; i++){
+            if(board[i][0]=='O'){
+                ans[i][0] = 'O';
+                q.push({i, 0});
+                vis[i][0] = 1;
             }
 
-            visit[0][i] = 1;
-        }
-
-        // last row
-        for(int i=0; i<m; i++){
-            if(b[n-1][i]=='O'){
-                q.push({n-1, i});
-                ans[n-1][i] = 'O';
-                
-            }
-            visit[n-1][i] = 1;
-        }
-        
-        // first col
-        
-        for(int i=1; i<n-1; i++){
-            if(b[i][0]=='O'){
-                q.push({i,0});
-                ans[i][0]='O';
-                
-            }
-            visit[i][0] = 1;
-        }
-        
-        // last col
-        for(int i=1; i<n-1; i++){
-            if(b[i][m-1]=='O'){
-                q.push({i,m-1});
+            if(board[i][m-1]=='O'){
                 ans[i][m-1]='O';
-               
+                q.push({i, m-1});
+                vis[i][m-1]=1;
             }
-             visit[i][m-1] = 1;
         }
 
+        for(int j=0; j<m; j++){
+            if(board[0][j] == 'O'){
+                ans[0][j] = 'O';
+                q.push({0, j});
+                vis[0][j] = 1;
+            }
+            if(board[n-1][j]=='O'){
+                ans[n-1][j]='O';
+                q.push({n-1, j});
+                vis[n-1][j] =1;
+            }
+        }
+
+        int row[4] = {1,0,0,-1};
+        int col[4] ={0,1,-1,0};
         while(!q.empty()){
-            int u = q.front().first;
-            int v = q.front().second;
+            int r = q.front().first;
+            int c = q.front().second;
             q.pop();
-            for(int k=0; k<4; k++){
-                if(check(u + row[k], v + col[k], n, m)  && visit[u + row[k]][v + col[k]]==0){
-                    visit[u + row[k]][v + col[k]] = 1;
-                    if(b[u + row[k]][v + col[k]] == 'O' ){
-                        ans[u + row[k]][v + col[k]] = 'O';
-                        q.push({u + row[k], v + col[k] });
-                        
-                    }
+
+            for(int i=0; i<4; i++){
+                int newr = row[i]+r;
+                int newc = col[i]+c;
+                if(check(newr, newc, n, m) && vis[newr][newc]==0 && board[newr][newc]=='O' ){
+                    vis[newr][newc]=1;
+                    ans[newr][newc] = 'O';
+                    q.push({newr, newc});
                 }
             }
+
         }
-        b = ans;
+
+        board = ans;
     }
 };
