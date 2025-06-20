@@ -30,6 +30,7 @@
 | [0013-roman-to-integer](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0013-roman-to-integer) |
 | [0012-integer-to-roman](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0012-integer-to-roman) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0628-maximum-product-of-three-numbers](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0628-maximum-product-of-three-numbers) |
 ## Simulation
 |  |
 | ------- |
@@ -204,6 +205,7 @@
 | [0130-surrounded-regions](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0130-surrounded-regions) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0628-maximum-product-of-three-numbers) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -301,6 +303,7 @@
 | [0018-4sum](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0018-4sum) |
 | [0646-maximum-length-of-pair-chain](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0646-maximum-length-of-pair-chain) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [0628-maximum-product-of-three-numbers](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0628-maximum-product-of-three-numbers) |
 ## Divide and Conquer
 |  |
 | ------- |
