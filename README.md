@@ -31,6 +31,7 @@
 | [0012-integer-to-roman](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0012-integer-to-roman) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0628-maximum-product-of-three-numbers) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Simulation
 |  |
 | ------- |
@@ -639,6 +640,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0234-palindrome-linked-list) |
 | [0142-linked-list-cycle-ii](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0142-linked-list-cycle-ii) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/lakshita157/6-Companies-30-Days/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Shortest Path
 |  |
 | ------- |
