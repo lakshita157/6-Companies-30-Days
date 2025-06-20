@@ -446,6 +446,7 @@
 | [0020-valid-parentheses](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0020-valid-parentheses) |
 | [0937-online-stock-span](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0937-online-stock-span) |
 | [0874-backspace-string-compare](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0874-backspace-string-compare) |
+| [0071-simplify-path](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0071-simplify-path) |
 ## Design
 |  |
 | ------- |
@@ -572,6 +573,7 @@
 | [0022-generate-parentheses](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0022-generate-parentheses) |
 | [0012-integer-to-roman](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0012-integer-to-roman) |
 | [0874-backspace-string-compare](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0874-backspace-string-compare) |
+| [0071-simplify-path](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0071-simplify-path) |
 ## Sliding Window
 |  |
 | ------- |
