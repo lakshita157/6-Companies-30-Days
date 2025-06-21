@@ -207,6 +207,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0628-maximum-product-of-three-numbers) |
+| [0134-gas-station](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0134-gas-station) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -598,6 +599,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0646-maximum-length-of-pair-chain) |
 | [0410-split-array-largest-sum](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0410-split-array-largest-sum) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0134-gas-station](https://github.com/lakshita157/6-Companies-30-Days/tree/master/0134-gas-station) |
 ## Prefix Sum
 |  |
 | ------- |
